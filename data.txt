@@ -10,3 +10,9 @@
 # It is primarily meant to be used for larger organizations where a company-wide
 # headcount may be difficult to obtain, but more localized information may be
 # available.
+
+[pinterest]
+	company: Pinterest
+	num_female_eng: 13
+	num_eng: 92
+	last_updated: 10/20/2013
