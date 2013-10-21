@@ -26,3 +26,8 @@
 	num_female_eng: 5
 	num_eng: 21
 	last_updated: 10/11/2013
+[renttherunway]
+	company: Rent the Runway
+	num_female_eng: 7
+	num_eng: 32
+	last_updated: 10/13/2013
