@@ -14,7 +14,11 @@ Contributing Data
 To contribute numbers for a company or team, whether your own or
 another, you can either
 
-1. Submit a pull request amending data.txt, and in the git commit
+1. Send the information to me via Twitter at @triketora or email me 
+at tracy at pinterest dot com. I am happy to anonymize contributions
+if they are sensitive.
+
+2. Submit a pull request amending data.txt, and in the git commit
 message listing the contributor (the person providing the data,
 preferably with qualifications, and a contact method such as Twitter
 handle) and source (e.g. internal headcount, /about team page count,
@@ -33,10 +37,6 @@ https://medium.com/grace-hopper-2013/cb997a57252#d4d8-b3d509275bf9
 Rent the Runway is 7 out of 32 if you just count dev + ops, 10 out of
 37 if you count QA, 11 out of 39 if you count all the people I manage.
 ```
-
-2. Send the information to me via Twitter at @triketora or email me 
-at tracy at pinterest dot com.
-
 
 How does the spreadsheet get updated?
 -------------------------------------
