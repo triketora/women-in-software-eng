@@ -163,6 +163,10 @@ def update_ss_from_file(ss_key, worksheet_id, data_filename):
     rows_data = parse_ss_rows_data_from_file(data_filename).values()
     summary_row_data = _summarize_rows_data(rows_data)
     rows_data.append(summary_row_data)
+
+    # Sort in descending order by number of total engineers.
+    rows_data.sort(key=lambda r: r['num_eng'], reverse=True)
+
     for row_data in rows_data:
         row_data = dict((key.replace('_', ''), str(value))
                         for key, value in row_data.items())
