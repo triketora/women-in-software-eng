@@ -21,3 +21,8 @@
 	num_female_eng: 9
 	num_eng: 143
 	last_updated: 10/12/2013
+[medium]
+	company: Medium
+	num_female_eng: 5
+	num_eng: 21
+	last_updated: 10/11/2013
