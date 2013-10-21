@@ -1,0 +1,12 @@
+# Use the format:
+# [<unique_key>]
+#	company: Company Name
+#	team: Team Name
+#	num_female_eng: 50
+# 	num_eng: 100
+# 	last_updated: 10/20/2013
+#
+# The team field is optional (it will default to 'N/A' if the row is omitted). 
+# It is primarily meant to be used for larger organizations where a company-wide
+# headcount may be difficult to obtain, but more localized information may be
+# available.
