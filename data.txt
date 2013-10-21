@@ -25,7 +25,7 @@
 	company: Flatiron Health
 	num_female_eng: 1
 	num_eng: 7
-	last_uldated: 10/21/2013
+	last_updated: 10/21/2013
 [medium]
 	company: Medium
 	num_female_eng: 5
