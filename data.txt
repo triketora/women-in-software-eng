@@ -4,7 +4,7 @@
 #	team: Team Name
 #	num_female_eng: 50
 # 	num_eng: 100
-# 	last_updated: 10/20/2013
+# 	last_updated: 2013-10-20
 #
 # The team field is optional (it will default to 'N/A' if the row is omitted). 
 # It is primarily meant to be used for larger organizations where a company-wide
@@ -15,29 +15,29 @@
 	company: Pinterest
 	num_female_eng: 13
 	num_eng: 92
-	last_updated: 10/20/2013
+	last_updated: 2013-10-20
 [dropbox]
 	company: Dropbox
 	num_female_eng: 9
 	num_eng: 143
-	last_updated: 10/12/2013
+	last_updated: 2013-10-12
 [medium]
 	company: Medium
 	num_female_eng: 5
 	num_eng: 21
-	last_updated: 10/11/2013
+	last_updated: 2013-10-11
 [renttherunway]
 	company: Rent the Runway
 	num_female_eng: 7
 	num_eng: 32
-	last_updated: 10/13/2013
+	last_updated: 2013-10-13
 [reddit]
 	company: Reddit
 	num_female_eng: 2
 	num_eng: 14
-	last_updated: 10/12/2013
+	last_updated: 2013-10-12
 [versal]
 	company: Versal
 	num_female_eng: 3
 	num_eng: 16
-	last_updated: 10/20/2013
+	last_updated: 2013-10-20
