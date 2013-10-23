@@ -76,3 +76,8 @@
 	num_female_eng: 2
 	num_eng: 24
 	last_updated: 2013-10-22
+[mozilla]
+	company: Mozilla
+	num_female_eng: 43
+	num_eng: 500
+	last_updated: 2013-10-23
