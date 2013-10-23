@@ -232,3 +232,9 @@
 	num_female_eng: 1
 	num_eng: 7
 	last_updated: 2013-10-21
+[pearson]
+	company: Pearson College
+	team: APEX/Ferrari
+	num_female_eng: 4
+	num_eng: 9
+	last_updated: 2013-10-23
