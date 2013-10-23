@@ -86,3 +86,10 @@
 	num_female_eng: 3
 	num_eng: 14
 	last_updated: 2013-10-23
+[pearson]
+	company: Pearson College
+	team: APEX
+	num_female_eng: 4
+	num_eng: 9
+	last_updated: 2013-10-23
+	
