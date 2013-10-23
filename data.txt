@@ -71,3 +71,8 @@
 	num_female_eng: 0
 	num_eng: 9
 	last_updated: 2013-10-22
+[coursera]
+	company: Coursera
+	num_female_eng: 2
+	num_eng: 24
+	last_updated: 2013-10-22
