@@ -106,3 +106,8 @@
 	num_female_eng: 15
 	num_eng: 112
 	last_updated: 2013-10-23
+[findery]
+  company: Findery
+  num_female_eng: 1
+  num_eng: 6
+  last_updated: 2013-10-23
