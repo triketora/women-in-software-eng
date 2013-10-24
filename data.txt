@@ -192,4 +192,8 @@
 	num_female_eng: 30
 	num_eng: 151
 	last_updated: 2013-10-23
-
+[qualcomm_austin]
+	company: Qualcomm - Austin, TX 
+	num_female_eng: 15
+	num_eng: 271
+	last_updated: 2013-10-24 
