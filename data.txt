@@ -157,3 +157,8 @@
 	num_female_eng: 0
 	num_eng: 18
 	last_updated: 2013-10-23
+[rdio]
+	company: Rdio
+	num_female_eng: 9
+	num_eng: 56
+	last_updated: 2013-10-23
