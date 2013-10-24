@@ -121,3 +121,8 @@
 	num_female_eng: 1
 	num_eng: 25
 	last_updated: 2013-10-23
+[hipmunk]
+	company: Hipmunk
+	num_female_eng: 0
+	num_eng: 15
+	last_updated: 2013-10-23
