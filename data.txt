@@ -137,3 +137,8 @@
 	num_female_eng: 2
 	num_eng: 15
 	last_updated: 2013-10-23
+[etsy]
+	company: Etsy
+	num_female_eng: 19
+	num_eng: 149
+	last_update: 2013-10-23
