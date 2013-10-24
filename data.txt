@@ -116,3 +116,8 @@
  	num_female_eng: 4
  	num_eng: 23
  	last_updated: 2013-10-23
+[learnist]
+	company: Learnist
+	num_female_eng: 1
+	num_eng: 25
+	last_updated: 2013-10-23
