@@ -248,3 +248,8 @@
 	num_female_eng: 0
 	num_eng: 3
 	last_updated: 2013-10-24
+[datascopeanalytics]
+	company: Datascope Analytics
+	num_female_eng: 2
+	num_eng: 7
+	last updated: 2013-10-24
