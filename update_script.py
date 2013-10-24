@@ -178,11 +178,13 @@ if __name__ == '__main__':
     parser.add_argument('-e', '--email')
     parser.add_argument('-p', '--password')
     parser.add_argument('-d', '--data-file')
+    parser.add_argument('-s', '--spreadsheet-key')
 
     args = parser.parse_args()
     email = args.email
     password = args.password 
-    data_filename = args.data_file 
+    data_filename = args.data_file
+    ss_key = args.spreadsheet_key or SS_KEY
 
     init_ss_client(email, password)
-    update_ss_from_file(SS_KEY, WORKSHEET_ID, data_filename)             
+    update_ss_from_file(ss_key, WORKSHEET_ID, data_filename)
