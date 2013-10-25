@@ -350,3 +350,8 @@
 	num_female_eng: 1
 	num_eng: 24
 	last_updated: 2013-10-26
+[snapchat]
+	company: Snapchat
+	num_female_eng: 2
+	num_eng: 13
+	last_updated: 2013-10-24
