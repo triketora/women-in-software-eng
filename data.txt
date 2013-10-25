@@ -126,6 +126,11 @@
 	num_female_eng: 0
 	num_eng: 15
 	last_updated: 2013-10-23
+[goldbely]
+	company: Goldbely
+	num_female_eng: 0
+	num_eng: 3
+	last_updated: 2013-10-24
 [levo]
 	company: Levo League
 	num_female_eng: 4
