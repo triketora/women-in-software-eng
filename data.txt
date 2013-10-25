@@ -294,3 +294,8 @@
         num_female_eng: 8
         num_eng: 45
         last_updated: 2013-10-24
+[shopkick]
+	company: shopkick
+	num_female_eng: 2
+	num_eng: 19
+	last_updated: 2013-10-24
