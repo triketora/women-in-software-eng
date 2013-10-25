@@ -335,3 +335,8 @@
 	num_female_eng: 1
 	num_eng: 4
 	last_updated: 2013-10-25
+[kiva]
+	company: Kiva
+	num_female_eng: 3
+	num_eng: 24
+	last_updated: 2013-10-25
