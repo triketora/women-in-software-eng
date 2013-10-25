@@ -299,3 +299,8 @@
 	num_female_eng: 2
 	num_eng: 19
 	last_updated: 2013-10-24
+[elationemr]
+	company: elationemr
+	num_female_eng: 1
+	num_eng: 4
+	last_updated: 2013-10-24
