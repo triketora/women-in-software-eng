@@ -155,8 +155,8 @@
 [37signals]
 	company: 37signals
 	num_female_eng: 0
-	num_eng: 18
-	last_updated: 2013-10-23
+	num_eng: 20
+	last_updated: 2013-10-24
 [rdio]
 	company: Rdio
 	num_female_eng: 9
