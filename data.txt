@@ -304,3 +304,8 @@
 	num_female_eng: 1
 	num_eng: 4
 	last_updated: 2013-10-24
+[rhapsody]
+	company: Rhapsody
+	num_female_eng: 14
+	num_eng: 76
+	last_updated: 2013-10-24
