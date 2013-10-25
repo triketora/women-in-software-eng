@@ -370,3 +370,8 @@
 	num_female_eng: 2
 	num_eng: 2
 	last_updated: 2013-10-25
+[omniti]
+	company: OmniTI
+	num_female_eng: 5
+	num_eng: 22
+	last_updated: 2013-10-25
