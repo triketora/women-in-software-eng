@@ -147,6 +147,11 @@
 	num_female_eng: 19
 	num_eng: 149
 	last_updated: 2013-10-23
+[stripe]
+	company: Stripe
+	num_female_eng: 3
+	num_eng: 28
+	last_updated: 2013-10-24
 [disqus]
 	company: Disqus
 	num_female_eng: 0
