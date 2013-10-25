@@ -11,6 +11,11 @@
 # headcount may be difficult to obtain, but more localized information may be
 # available.
 
+[thredUP]
+  company: thredUP
+  num_female_eng: 5
+  num_eng: 15
+  last_updated: 10-23-2013
 [pinterest]
 	company: Pinterest
 	num_female_eng: 13
