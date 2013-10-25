@@ -3,9 +3,8 @@ https://medium.com/grace-hopper-2013/cb997a57252
 
 Viewing Data
 ------------
-The easiest way to view collected data is on this Google spreadsheet:
-
-Spreadsheet here: https://docs.google.com/spreadsheet/ccc?key=0AlZH8QBl60oodEJTdFA5TlZOcDJCMU02RkZoSHF5SHc#gid=0
+The easiest way to view the collected data is this Google spreadsheet:
+https://docs.google.com/spreadsheet/ccc?key=0AlZH8QBl60oodEJTdFA5TlZOcDJCMU02RkZoSHF5SHc#gid=0
 
 
 Contributing Data
@@ -14,13 +13,13 @@ Contributing Data
 To contribute numbers for a company or team, whether your own or
 another, you can either
 
-1. Send the information to me via Twitter at @triketora or email me 
+1. Send the information to me via Twitter at <a href="https://twitter.com/triketora">@triketora</a> or email me 
 at tracy at pinterest dot com. I am happy to anonymize contributions
 if they are sensitive.
 
 2. Submit a pull request amending data.txt (click this link to easily submit a pull request: https://github.com/triketora/women-in-software-eng/edit/master/data.txt), 
 
-    in the git commit message list:
+    in the git commit message include:
     * the contributor (the person providing the data, preferably with qualifications, and a contact method such as Twitter handle) and 
     * source (e.g. internal headcount, /about team page count, etc.). 
 
@@ -39,18 +38,20 @@ if they are sensitive.
     37 if you count QA, 11 out of 39 if you count all the people I manage.
     ```
 
+    It may be helpful to add your entry somewhere besides the end of the list, since everyone submitting to the end of the file means merge conflict party.     
+
 How does the spreadsheet get updated?
 -------------------------------------
 
 Right now, I manually run `update_script.py` to pull the numbers out 
-of data.txt and submit them to the Google spreadsheet.
+of `data.txt` and submit them to the Google spreadsheet.
 
 Something like this:
-```python
-python update_script.py -e women.in.software.eng@gmail.com -p [password] -d data.txt
-```
+
+    python update_script.py -e women.in.software.eng@gmail.com -p [password] -d data.txt
+
 
 Questions / Comments / Concerns?
 --------------------------------
-Please reach out to me on Twitter at @triketora or email me at tracy 
+Please reach out to me on Twitter at <a href="https://twitter.com/triketora">@triketora</a> or email me at tracy 
 at pinterest.com. Feedback on anything big or small is very welcome :) 
