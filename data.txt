@@ -252,7 +252,7 @@
 	company: Datascope Analytics
 	num_female_eng: 2
 	num_eng: 7
-	last updated: 2013-10-24
+	last_updated: 2013-10-24
 [squareroot]
 	company: square-root.com
 	num_female_eng: 2
