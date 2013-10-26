@@ -365,3 +365,8 @@
 	num_female_eng: 4
 	num_eng: 21
 	last_updated: 2013-10-25
+[spitfire]
+	company: Spitfire Athlete
+	num_female_eng: 2
+	num_eng: 2
+	last_updated: 2013-10-25
