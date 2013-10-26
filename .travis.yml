@@ -1,0 +1,14 @@
+language: python
+python:
+  - "2.7"
+env:
+  global:
+    # SS_KEY
+    - secure: "nMdtBc0Do1MKCq1WV3j0yAufmSWack22j21oZfi2RMki9LXfjxkj9MSOf1+zBqSeG0m0DvjwKBrwfiDGHkzLJ2Viaf2jWNtvdVPE2nAk3G4SJj6q3rAr1aKe/zD9Ti4r5zajpH0FCkPhC6tn/biyP/iIar2RJ7JNxlnpAU+KNZA="
+    # PASSWORD
+    - secure: "ZkzgIKyp/tl2sbcvJ7ZhKWRBHBgKUfcWqrllaJjhhn02T1N2LHOnnUxJJPZIe7+v2aTegnsw+tGomSyhhRxsxsdXUtliyDP1jEN8ztCSdfPF1t8Q1DzBKzm8nonCm8ia3c2X0oJX9k7LFwmqXxOxDSdc5tT2Hu8Z4buwfUCj7E4="
+
+script:
+  - if [[ $PASSWORD ]]; then
+      python update_script.py -e women.in.software.eng@gmail.com -p $PASSWORD -s $SS_KEY -d data.txt;
+    fi
