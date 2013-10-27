@@ -1,0 +1,12 @@
+{% extends "!layout.html" %}
+
+{%- block extrahead %}
+<script type="text/javascript" src="_static/jquery.tablesorter.min.js"></script>
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter( {sortList: [[4,1]]} );
+    }
+);
+</script>
+{% endblock %}
