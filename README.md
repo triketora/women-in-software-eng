@@ -65,6 +65,14 @@ Something like this:
 
     python update_script.py -e women.in.software.eng@gmail.com -p [password] -d data.txt
 
+You can pass it in to your own spreadsheet by supplying the Spreadsheet Key (`SS_KEY`):
+
+    python update_script.py -e $GOOGLE_EMAIL_ADDRESS -p $PASSWORD -d data.txt -s $SS_KEY
+
+Where `SS_KEY` is the key found in a Google Docs spreadsheet URL:
+
+    https://docs.google.com/spreadsheet/ccc?key=$SS_KEY
+    
 
 Questions / Comments / Concerns?
 --------------------------------
@@ -72,3 +80,5 @@ Please reach out to me on Twitter at <a
 href="https://twitter.com/triketora">@triketora</a> or email me at
 tracy at pinterest.com. Feedback on anything big or small is very
 welcome :)
+
+[![Build Status](https://travis-ci.org/triketora/women-in-software-eng.png?branch=master)](https://travis-ci.org/triketora/women-in-software-eng)
