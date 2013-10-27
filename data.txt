@@ -375,3 +375,8 @@
 	num_female_eng: 5
 	num_eng: 22
 	last_updated: 2013-10-25
+[thoughtbot]
+	company: thoughtbot
+	num_female_eng: 5
+	num_eng: 45
+	last_updated: 2013-10-26
