@@ -6,372 +6,443 @@
 # 	num_eng: 100
 # 	last_updated: 2013-10-20
 #
-# The team field is optional (it will default to 'N/A' if the row is omitted). 
+# The team field is optional (it will default to 'N/A' if the row is omitted).
 # It is primarily meant to be used for larger organizations where a company-wide
 # headcount may be difficult to obtain, but more localized information may be
 # available.
 
 [pinterest]
-	company: Pinterest
-	num_female_eng: 13
-	num_eng: 92
-	last_updated: 2013-10-20
+company: Pinterest
+num_female_eng: 13
+num_eng: 92
+last_updated: 2013-10-20
+
 [dropbox]
-	company: Dropbox
-	num_female_eng: 9
-	num_eng: 143
-	last_updated: 2013-10-12
+company: Dropbox
+num_female_eng: 9
+num_eng: 143
+last_updated: 2013-10-12
+
 [medium]
-	company: Medium
-	num_female_eng: 5
-	num_eng: 21
-	last_updated: 2013-10-11
+company: Medium
+num_female_eng: 5
+num_eng: 21
+last_updated: 2013-10-11
+
 [renttherunway]
-	company: Rent the Runway
-	num_female_eng: 7
-	num_eng: 32
-	last_updated: 2013-10-13
+company: Rent the Runway
+num_female_eng: 7
+num_eng: 32
+last_updated: 2013-10-13
+
 [reddit]
-	company: Reddit
-	num_female_eng: 2
-	num_eng: 14
-	last_updated: 2013-10-12
+company: Reddit
+num_female_eng: 2
+num_eng: 14
+last_updated: 2013-10-12
+
 [versal]
-	company: Versal
-	num_female_eng: 3
-	num_eng: 16
-	last_updated: 2013-10-20
+company: Versal
+num_female_eng: 3
+num_eng: 16
+last_updated: 2013-10-20
+
 [hootsuite]
-	company: HootSuite
-	num_female_eng: 6
-	num_eng: 41
-	last_updated: 2013-10-22
+company: HootSuite
+num_female_eng: 6
+num_eng: 41
+last_updated: 2013-10-22
+
 [quora]
-	company: Quora
-	num_female_eng: 3
-	num_eng: 34
-	last_updated: 2013-10-22
+company: Quora
+num_female_eng: 3
+num_eng: 34
+last_updated: 2013-10-22
+
 [optimizely]
-	company: Optimizely
-	num_female_eng: 1
-	num_eng: 12
-	last_updated: 2013-10-22
+company: Optimizely
+num_female_eng: 1
+num_eng: 12
+last_updated: 2013-10-22
+
 [codecademy]
-	company: Codecademy
-	num_female_eng: 0
-	num_eng: 9
-	last_updated: 2013-10-22
+company: Codecademy
+num_female_eng: 0
+num_eng: 9
+last_updated: 2013-10-22
+
 [watsi]
-	company: Watsi
-	num_female_eng: 0
-	num_eng: 2
-	last_updated: 2013-10-22
+company: Watsi
+num_female_eng: 0
+num_eng: 2
+last_updated: 2013-10-22
+
 [topix]
-	company: Topix
-	num_female_eng: 0
-	num_eng: 9
-	last_updated: 2013-10-22
+company: Topix
+num_female_eng: 0
+num_eng: 9
+last_updated: 2013-10-22
+
 [coursera]
-	company: Coursera
-	num_female_eng: 2
-	num_eng: 24
-	last_updated: 2013-10-22
+company: Coursera
+num_female_eng: 2
+num_eng: 24
+last_updated: 2013-10-22
+
 [mozilla]
-	company: Mozilla
-	num_female_eng: 43
-	num_eng: 500
-	last_updated: 2013-10-23
+company: Mozilla
+num_female_eng: 43
+num_eng: 500
+last_updated: 2013-10-23
+
 [highfive]
-	company: Highfive
-	num_female_eng: 3
-	num_eng: 14
-	last_updated: 2013-10-23
+company: Highfive
+num_female_eng: 3
+num_eng: 14
+last_updated: 2013-10-23
+
 [khanacademy]
-	company: Khan Academy
-	num_female_eng: 6
-	num_eng: 24
-	last_updated: 2013-10-23
+company: Khan Academy
+num_female_eng: 6
+num_eng: 24
+last_updated: 2013-10-23
+
 [flipboard]
-	company: Flipboard
-	num_female_eng: 6
-	num_eng: 60
-	last_updated: 2013-10-23
+company: Flipboard
+num_female_eng: 6
+num_eng: 60
+last_updated: 2013-10-23
+
 [asana]
-	company: Asana
-	num_female_eng: 3
-	num_eng: 21
-	last_updated: 2013-10-23
+company: Asana
+num_female_eng: 3
+num_eng: 21
+last_updated: 2013-10-23
+
 [quantcast]
-	company: Quantcast
-	num_female_eng: 15
-	num_eng: 112
-	last_updated: 2013-10-23
+company: Quantcast
+num_female_eng: 15
+num_eng: 112
+last_updated: 2013-10-23
+
 [findery]
-	company: Findery
-	num_female_eng: 1
-	num_eng: 6
-	last_updated: 2013-10-23
+company: Findery
+num_female_eng: 1
+num_eng: 6
+last_updated: 2013-10-23
+
 [hearsaysocial]
- 	company: Hearsay Social
- 	num_female_eng: 4
- 	num_eng: 23
- 	last_updated: 2013-10-23
+company: Hearsay Social
+num_female_eng: 4
+num_eng: 23
+last_updated: 2013-10-23
+
 [learnist]
-	company: Learnist
-	num_female_eng: 1
-	num_eng: 25
-	last_updated: 2013-10-23
+company: Learnist
+num_female_eng: 1
+num_eng: 25
+last_updated: 2013-10-23
+
 [hipmunk]
-	company: Hipmunk
-	num_female_eng: 0
-	num_eng: 15
-	last_updated: 2013-10-23
+company: Hipmunk
+num_female_eng: 0
+num_eng: 15
+last_updated: 2013-10-23
+
 [goldbely]
-	company: Goldbely
-	num_female_eng: 0
-	num_eng: 3
-	last_updated: 2013-10-24
+company: Goldbely
+num_female_eng: 0
+num_eng: 3
+last_updated: 2013-10-24
+
 [levo]
-	company: Levo League
-	num_female_eng: 4
-	num_eng: 6
-	last_updated: 2013-10-23
+company: Levo League
+num_female_eng: 4
+num_eng: 6
+last_updated: 2013-10-23
+
 [parse]
-	company: Facebook
-	team: Parse
-	num_female_eng: 2
-	num_eng: 15
-	last_updated: 2013-10-23
+company: Facebook
+team: Parse
+num_female_eng: 2
+num_eng: 15
+last_updated: 2013-10-23
+
 [etsy]
-	company: Etsy
-	num_female_eng: 19
-	num_eng: 149
-	last_updated: 2013-10-23
+company: Etsy
+num_female_eng: 19
+num_eng: 149
+last_updated: 2013-10-23
+
 [stripe]
-	company: Stripe
-	num_female_eng: 3
-	num_eng: 28
-	last_updated: 2013-10-24
+company: Stripe
+num_female_eng: 3
+num_eng: 28
+last_updated: 2013-10-24
+
 [disqus]
-	company: Disqus
-	num_female_eng: 2
-	num_eng: 23
-	last_updated: 2013-10-25
+company: Disqus
+num_female_eng: 2
+num_eng: 23
+last_updated: 2013-10-25
+
 [wealthfront]
-	company: Wealthfront
-	num_female_eng: 4
-	num_eng: 13
-	last_updated: 2013-10-23
+company: Wealthfront
+num_female_eng: 4
+num_eng: 13
+last_updated: 2013-10-23
+
 [37signals]
-	company: 37signals
-	num_female_eng: 0
-	num_eng: 20
-	last_updated: 2013-10-24
+company: 37signals
+num_female_eng: 0
+num_eng: 20
+last_updated: 2013-10-24
+
 [theladders]
-	company: TheLadders
-	num_female_eng: 6
-	num_eng: 35
-	last_updated: 2013-10-25
+company: TheLadders
+num_female_eng: 6
+num_eng: 35
+last_updated: 2013-10-25
+
 [rdio]
-	company: Rdio
-	num_female_eng: 9
-	num_eng: 56
-	last_updated: 2013-10-23
+company: Rdio
+num_female_eng: 9
+num_eng: 56
+last_updated: 2013-10-23
+
 [venmo]
-	company: Venmo
-	num_female_eng: 5
-	num_eng: 32
-	last_updated: 2013-10-23
+company: Venmo
+num_female_eng: 5
+num_eng: 32
+last_updated: 2013-10-23
+
 [playforge]
-	company: The Playforge
-	num_female_eng: 0
-	num_eng: 6
-	last_updated: 2013-10-23
+company: The Playforge
+num_female_eng: 0
+num_eng: 6
+last_updated: 2013-10-23
+
 [airbnb]
-	company: Airbnb
-	num_female_eng: 10
-	num_eng: 76
-	last_updated: 2013-10-23
+company: Airbnb
+num_female_eng: 10
+num_eng: 76
+last_updated: 2013-10-23
+
 [adzerk]
-	company: Adzerk
-	num_female_eng: 1
-	num_eng: 5
-	last_updated: 2013-10-23
+company: Adzerk
+num_female_eng: 1
+num_eng: 5
+last_updated: 2013-10-23
+
 [hypothesis]
-	company: Hypothes.is
-	num_female_eng: 0
-	num_eng: 3
-	last_updated: 2013-10-23
+company: Hypothes.is
+num_female_eng: 0
+num_eng: 3
+last_updated: 2013-10-23
+
 [newrelic]
-	company: New Relic
-	num_female_eng: 30
-	num_eng: 151
-	last_updated: 2013-10-23
+company: New Relic
+num_female_eng: 30
+num_eng: 151
+last_updated: 2013-10-23
+
 [howaboutwe]
-	company: HowAboutWe
-	num_female_eng: 4
-	num_eng: 20
-	last_updated: 2013-10-24
+company: HowAboutWe
+num_female_eng: 4
+num_eng: 20
+last_updated: 2013-10-24
+
 [themuse]
-	company: The Muse
-	num_female_eng: 3
-	num_eng: 4
-	last_updated: 2013-10-24
+company: The Muse
+num_female_eng: 3
+num_eng: 4
+last_updated: 2013-10-24
+
 [orbistechnologies]
-	company: Orbis Technologies
-	num_female_eng: 4
-	num_eng: 24
-	last_updated: 2013-10-24
+company: Orbis Technologies
+num_female_eng: 4
+num_eng: 24
+last_updated: 2013-10-24
+
 [stackmob]
-	company: StackMob
-	num_female_eng: 0
-	num_eng: 14
-	last_updated: 2013-10-24
+company: StackMob
+num_female_eng: 0
+num_eng: 14
+last_updated: 2013-10-24
+
 [yellowsmith]
-	company: Yellowsmith
-	num_female_eng: 2
-	num_eng: 3
-	last_updated: 2013-10-24
+company: Yellowsmith
+num_female_eng: 2
+num_eng: 3
+last_updated: 2013-10-24
+
 [noise]
-	company: noise
-	num_female_eng: 2
-	num_eng: 10
-	last_updated: 2013-10-23
+company: noise
+num_female_eng: 2
+num_eng: 10
+last_updated: 2013-10-23
+
 [zerocater]
-	company: Zerocater
-	num_female_eng: 0
-	num_eng: 2
-	last_updated: 2013-10-24
+company: Zerocater
+num_female_eng: 0
+num_eng: 2
+last_updated: 2013-10-24
+
 [flatironhealth]
-	company: Flatiron Health
-	num_female_eng: 1
-	num_eng: 7
-	last_updated: 2013-10-21
+company: Flatiron Health
+num_female_eng: 1
+num_eng: 7
+last_updated: 2013-10-21
+
 [pearson]
-	company: Pearson College
-	team: APEX/Ferrari
-	num_female_eng: 4
-	num_eng: 9
-	last_updated: 2013-10-23
+company: Pearson College
+team: APEX/Ferrari
+num_female_eng: 4
+num_eng: 9
+last_updated: 2013-10-23
+
 [thredup]
-	company: thredUP
-	num_female_eng: 5
-	num_eng: 15
-	last_updated: 2013-10-23
+company: thredUP
+num_female_eng: 5
+num_eng: 15
+last_updated: 2013-10-23
+
 [qstream]
-	company: Qstream
-	num_female_eng: 0
-	num_eng: 3
-	last_updated: 2013-10-24
+company: Qstream
+num_female_eng: 0
+num_eng: 3
+last_updated: 2013-10-24
+
 [datascopeanalytics]
-	company: Datascope Analytics
-	num_female_eng: 2
-	num_eng: 7
-	last_updated: 2013-10-24
+company: Datascope Analytics
+num_female_eng: 2
+num_eng: 7
+last_updated: 2013-10-24
+
 [squareroot]
-	company: square-root.com
-	num_female_eng: 2
-	num_eng: 8
-	last_updated: 2013-10-24
+company: square-root.com
+num_female_eng: 2
+num_eng: 8
+last_updated: 2013-10-24
+
 [qualcommaustin]
-	company: Qualcomm
-	team: Austin, TX office
-	num_female_eng: 15
-	num_eng: 271
-	last_updated: 2013-10-24
+company: Qualcomm
+team: Austin, TX office
+num_female_eng: 15
+num_eng: 271
+last_updated: 2013-10-24
+
 [renewablefunding]
-	company: Renewable Funding
-	num_female_eng: 1
-	num_eng: 4
-	last_updated: 2013-10-24
+company: Renewable Funding
+num_female_eng: 1
+num_eng: 4
+last_updated: 2013-10-24
+
 [kabinet]
-	company: Kabinet
-	num_female_eng: 2
-	num_eng: 2
-	last_updated: 2013-10-24
+company: Kabinet
+num_female_eng: 2
+num_eng: 2
+last_updated: 2013-10-24
+
 [monetate]
-	company: Monetate
-	num_female_eng: 8
-	num_eng: 48
-	last_updated: 2013-10-23
+company: Monetate
+num_female_eng: 8
+num_eng: 48
+last_updated: 2013-10-23
+
 [hackerschool]
-	company: Hacker School
-	num_female_eng: 2
-	num_eng: 7
-	last_updated: 2013-10-24
+company: Hacker School
+num_female_eng: 2
+num_eng: 7
+last_updated: 2013-10-24
+
 [hackbrightacademy]
-	company: Hackbright Academy
-	num_female_eng: 2
-	num_eng: 3
-	last_updated: 2013-10-24
+company: Hackbright Academy
+num_female_eng: 2
+num_eng: 3
+last_updated: 2013-10-24
+
 [zendesk]
-        company: Zendesk
-        num_female_eng: 8
-        num_eng: 45
-        last_updated: 2013-10-24
+company: Zendesk
+num_female_eng: 8
+num_eng: 45
+last_updated: 2013-10-24
+
 [shopkick]
-	company: shopkick
-	num_female_eng: 2
-	num_eng: 19
-	last_updated: 2013-10-24
+company: shopkick
+num_female_eng: 2
+num_eng: 19
+last_updated: 2013-10-24
+
 [elationemr]
-	company: elationemr
-	num_female_eng: 1
-	num_eng: 4
-	last_updated: 2013-10-24
+company: elationemr
+num_female_eng: 1
+num_eng: 4
+last_updated: 2013-10-24
+
 [rhapsody]
-	company: Rhapsody
-	num_female_eng: 14
-	num_eng: 76
-	last_updated: 2013-10-24
+company: Rhapsody
+num_female_eng: 14
+num_eng: 76
+last_updated: 2013-10-24
+
 [sifteo]
-	company: Sifteo
-	num_female_eng: 0
-	num_eng: 4
-	last_updated: 2013-10-24
+company: Sifteo
+num_female_eng: 0
+num_eng: 4
+last_updated: 2013-10-24
+
 [activision]
-	company: Activision
-	num_female_eng: 1
-	num_eng: 30
-	last_updated: 2013-10-25
+company: Activision
+num_female_eng: 1
+num_eng: 30
+last_updated: 2013-10-25
+
 [lookflow]
-	company: Yahoo!
-	team: LookFlow
-	num_female_eng: 1
-	num_eng: 4
-	last_updated: 2013-10-25
+company: Yahoo!
+team: LookFlow
+num_female_eng: 1
+num_eng: 4
+last_updated: 2013-10-25
+
 [github]
-	company: GitHub
-	num_female_eng: 30
-	num_eng: 218
-	last_updated: 2013-10-26
+company: GitHub
+num_female_eng: 30
+num_eng: 218
+last_updated: 2013-10-26
+
 [bitly]
-	company: Bitly
-	num_female_eng: 1
-	num_eng: 24
-	last_updated: 2013-10-26
+company: Bitly
+num_female_eng: 1
+num_eng: 24
+last_updated: 2013-10-26
+
 [snapchat]
-	company: Snapchat
-	num_female_eng: 2
-	num_eng: 13
-	last_updated: 2013-10-24
+company: Snapchat
+num_female_eng: 2
+num_eng: 13
+last_updated: 2013-10-24
+
 [kiva]
-	company: Kiva
-	num_female_eng: 3
-	num_eng: 24
-	last_updated: 2013-10-25
+company: Kiva
+num_female_eng: 3
+num_eng: 24
+last_updated: 2013-10-25
+
 [kanjoya]
-	company: Kanjoya
-	num_female_eng: 4
-	num_eng: 21
-	last_updated: 2013-10-25
+company: Kanjoya
+num_female_eng: 4
+num_eng: 21
+last_updated: 2013-10-25
+
 [spitfire]
-	company: Spitfire Athlete
-	num_female_eng: 2
-	num_eng: 2
-	last_updated: 2013-10-25
+company: Spitfire Athlete
+num_female_eng: 2
+num_eng: 2
+last_updated: 2013-10-25
+
 [omniti]
-	company: OmniTI
-	num_female_eng: 5
-	num_eng: 22
-	last_updated: 2013-10-25
+company: OmniTI
+num_female_eng: 5
+num_eng: 22
+last_updated: 2013-10-25
