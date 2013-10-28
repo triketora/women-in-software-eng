@@ -16,6 +16,11 @@
 	num_female_eng: 13
 	num_eng: 92
 	last_updated: 2013-10-20
+[datapad]
+	company: DataPad
+	num_female_eng: 1
+	num_eng: 6
+	last_updated: 2013-10-24
 [dropbox]
 	company: Dropbox
 	num_female_eng: 9
