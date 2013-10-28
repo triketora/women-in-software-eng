@@ -350,6 +350,11 @@
 	num_female_eng: 1
 	num_eng: 24
 	last_updated: 2013-10-26
+[flickr]
+	company: Yahoo
+	num_female_eng: 4
+	num_eng: 42
+	last_updated: 2013-10-28
 [snapchat]
 	company: Snapchat
 	num_female_eng: 2
