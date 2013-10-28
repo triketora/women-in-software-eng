@@ -391,3 +391,8 @@
 	num_female_eng: 0
 	num_eng: 25
 	last_updated: 2013-10-28
+[point.io]
+	company: point.io
+	num_female_eng: 1
+ 	num_eng: 6
+ 	last_updated: 2013-10-28
