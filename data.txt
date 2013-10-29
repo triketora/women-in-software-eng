@@ -342,8 +342,8 @@
 	last_updated: 2013-10-25
 [github]
 	company: GitHub
-	num_female_eng: 30
-	num_eng: 218
+	num_female_eng: 10
+	num_eng: 160
 	last_updated: 2013-10-26
 [bitly]
 	company: Bitly
