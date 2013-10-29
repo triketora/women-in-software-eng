@@ -139,9 +139,9 @@
 [parse]
 	company: Facebook
 	team: Parse
-	num_female_eng: 2
-	num_eng: 15
-	last_updated: 2013-10-23
+	num_female_eng: 4
+	num_eng: 18
+	last_updated: 2013-10-25
 [etsy]
 	company: Etsy
 	num_female_eng: 19
