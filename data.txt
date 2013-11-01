@@ -421,3 +421,8 @@
 	num_female_eng: 1
 	num_eng: 1
 	last_updated: 2013-10-31
+[gamechanger]
+	company: GameChanger.io
+	num_female_eng: 1
+	num_eng: 12
+	last_updated: 2013-11-01
