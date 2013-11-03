@@ -278,6 +278,12 @@
 	num_female_eng: 2
 	num_eng: 8
 	last_updated: 2013-10-24
+[guidewirefostercity]
+	company: Guidewire Software
+	team: Foster City office
+	num_female_eng: 21
+	num_eng: 122
+	last_updated: 2013-10-31
 [qualcommaustin]
 	company: Qualcomm
 	team: Austin, TX office
