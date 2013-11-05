@@ -359,8 +359,8 @@
 [bitly]
 	company: Bitly
 	num_female_eng: 1
-	num_eng: 24
-	last_updated: 2013-10-26
+	num_eng: 21
+	last_updated: 2013-11-5
 [flickr]
 	company: Yahoo
 	team: Flickr
