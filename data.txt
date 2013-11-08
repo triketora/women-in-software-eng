@@ -457,3 +457,8 @@
 	num_female_eng: 6
 	num_eng: 21
 	last_updated: 2013-11-07
+[elemental]
+	company: Elemental Technologies
+	num_female_eng: 6
+	num_eng: 55
+	last_updated: 2013-11-08
