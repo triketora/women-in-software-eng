@@ -437,3 +437,8 @@
 	num_female_eng: 2
 	num_eng: 18
 	last_updated: 2013-11-07
+[tindie]
+	company: Tindie
+	num_female_eng: 1
+	num_eng: 5
+	last_updated: 2013-11-07
