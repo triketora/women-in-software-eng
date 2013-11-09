@@ -467,3 +467,8 @@
 	num_female_eng: 0
 	num_eng: 6
 	last_updated: 2013-11-08
+[launchbit]
+	company: LaunchBit
+	num_female_eng: 1
+	num_eng: 2
+	last_updated: 2013-11-04
