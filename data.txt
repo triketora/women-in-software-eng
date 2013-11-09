@@ -392,6 +392,11 @@
 	num_female_eng: 5
 	num_eng: 22
 	last_updated: 2013-10-25
+[mcsi]
+	company: MCSI
+	num_female_eng: 21
+	num_eng: 159
+	last_updated: 2013-10-25
 [thoughtbot]
 	company: thoughtbot
 	num_female_eng: 5
