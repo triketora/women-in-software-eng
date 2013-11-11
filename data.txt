@@ -477,3 +477,8 @@
 	num_female_eng: 1
 	num_eng: 2
 	last_updated: 2013-11-04
+[hubspot]
+	company: HubSpot
+	num_female_eng: 4
+	num_eng: 65
+	last_updated: 2013-11-11
