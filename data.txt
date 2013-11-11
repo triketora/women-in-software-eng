@@ -21,6 +21,11 @@
 	num_female_eng: 9
 	num_eng: 143
 	last_updated: 2013-10-12
+[stackexchange]
+	company: Stack Exchange
+	num_female_eng: 0
+	num_eng: 23
+	last_updated: 2013-11-11
 [medium]
 	company: Medium
 	num_female_eng: 5
