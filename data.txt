@@ -512,3 +512,8 @@
 	num_female_eng: 2
 	num_eng: 12
 	last_updated: 2013-11-12
+[7digital]
+	company: 7digital
+	num_female_eng: 1
+	num_eng: 21
+	last_update: 2013-11-13
