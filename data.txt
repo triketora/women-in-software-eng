@@ -377,6 +377,11 @@
 	num_female_eng: 4
 	num_eng: 42
 	last_updated: 2013-10-28
+[goodreads]
+	company: Goodreads
+	num_female_eng: 5
+	num_eng: 25
+	last_updated: 2013-11-12
 [snapchat]
 	company: Snapchat
 	num_female_eng: 2
