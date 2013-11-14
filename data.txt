@@ -517,3 +517,8 @@
 	num_female_eng: 1
 	num_eng: 21
 	last_updated: 2013-11-13
+[foursquare]
+	company: foursquare
+	num_female_eng: 6
+	num_eng: 85
+	last_updated: 2013-11-13
