@@ -923,3 +923,8 @@
 	num_female_eng: 4
 	num_eng: 40
 	last_updated: 2014-09-26
+[tricae]
+	company: Tricae
+	num_female_eng: 1
+	num_eng: 6
+	last_updated: 2013-11-28
