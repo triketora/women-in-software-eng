@@ -547,3 +547,8 @@
 	num_female_eng: 0
 	num_eng: 7
 	last_updated: 2013-11-20
+[haivision]
+	company: Haivision
+	num_female_eng: 2
+	num_eng: 35
+	last_updated: 2013-11-28
