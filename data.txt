@@ -582,3 +582,8 @@
 	num_female_eng: 0
 	num_eng: 5
 	last_updated: 2013-11-27
+[kaon]
+	company: Kaon Interactive, Inc.
+	num_female_eng: 0
+	num_eng: 5
+	last_updated: 2013-12-02
