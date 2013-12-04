@@ -562,3 +562,8 @@
 	num_female_eng: 12
 	num_eng: 72
 	last_updated: 2013-12-02
+[inductiveautomation]
+	company: Inductive Automation
+	num_female_eng: 1
+	num_eng: 10
+	last_updated: 2013-11-26
