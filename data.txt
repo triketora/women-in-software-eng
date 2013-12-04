@@ -587,3 +587,8 @@
 	num_female_eng: 0
 	num_eng: 5
 	last_updated: 2013-12-02
+[manilla]
+	company: Manilla, LLC
+	num_female_eng: 10
+	num_eng: 32
+	last_updated: 2013-11-27
