@@ -557,3 +557,8 @@
 	num_female_eng: 0
 	num_eng: 7
 	last_updated: 2013-11-20
+[practicefusion]
+	company: Practice Fusion
+	num_female_eng: 12
+	num_eng: 72
+	last_updated: 2013-12-02
