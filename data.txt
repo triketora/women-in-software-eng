@@ -13,14 +13,24 @@
 
 [pinterest]
 	company: Pinterest
-	num_female_eng: 13
-	num_eng: 92
-	last_updated: 2013-10-20
+	num_female_eng: 14
+	num_eng: 105
+	last_updated: 2013-11-05
 [dropbox]
 	company: Dropbox
 	num_female_eng: 9
 	num_eng: 143
 	last_updated: 2013-10-12
+[internmatch]
+	company: Intern Match
+	num_female_eng: 1
+	num_eng: 4
+	last_updated: 2013-11-13
+[stackexchange]
+	company: Stack Exchange
+	num_female_eng: 0
+	num_eng: 23
+	last_updated: 2013-11-11
 [medium]
 	company: Medium
 	num_female_eng: 5
@@ -36,6 +46,11 @@
 	num_female_eng: 2
 	num_eng: 14
 	last_updated: 2013-10-12
+[wanelo]
+	company: Wanelo
+	num_female_eng: 3
+	num_eng: 15
+	last_updated: 2013-11-12
 [versal]
 	company: Versal
 	num_female_eng: 3
@@ -48,9 +63,9 @@
 	last_updated: 2013-10-22
 [quora]
 	company: Quora
-	num_female_eng: 3
-	num_eng: 34
-	last_updated: 2013-10-22
+	num_female_eng: 4
+	num_eng: 35
+	last_updated: 2013-10-31
 [optimizely]
 	company: Optimizely
 	num_female_eng: 1
@@ -142,6 +157,11 @@
 	num_female_eng: 2
 	num_eng: 15
 	last_updated: 2013-10-23
+[perforce]
+	company: Perforce
+	num_female_eng: 6
+	num_eng: 45
+	last_updated: 2013-11-26
 [etsy]
 	company: Etsy
 	num_female_eng: 19
@@ -278,6 +298,22 @@
 	num_female_eng: 2
 	num_eng: 8
 	last_updated: 2013-10-24
+[scilearn]
+	company: Scientific Learning
+	num_female_eng: 5
+	num_eng: 9
+	last_updated: 2013-12-02
+[guidewirefostercity]
+	company: Guidewire Software
+	team: Foster City office
+	num_female_eng: 21
+	num_eng: 122
+	last_updated: 2013-10-31
+[circa]
+	company: Circa
+	num_female_eng: 2
+	num_eng: 5
+	last_updated: 2013-11-12
 [qualcommaustin]
 	company: Qualcomm
 	team: Austin, TX office
@@ -353,14 +389,19 @@
 [bitly]
 	company: Bitly
 	num_female_eng: 1
-	num_eng: 24
-	last_updated: 2013-10-26
+	num_eng: 21
+	last_updated: 2013-11-5
 [flickr]
 	company: Yahoo
 	team: Flickr
 	num_female_eng: 4
 	num_eng: 42
 	last_updated: 2013-10-28
+[goodreads]
+	company: Goodreads
+	num_female_eng: 5
+	num_eng: 25
+	last_updated: 2013-11-12
 [snapchat]
 	company: Snapchat
 	num_female_eng: 2
@@ -408,6 +449,146 @@
 	last_updated: 2013-10-31
 [causes]
 	company: Causes.com
+	num_female_eng: 2
+	num_eng: 25
+	last_updated: 2013-11-07
+[radius]
+	company: Radius.com
+	num_female_eng: 3
+	num_eng: 12
+	last_updated: 2013-11-01
+[policystat]
+	company: PolicyStat
 	num_female_eng: 0
-	num_eng: 18
+	num_eng: 3
+	last_updated: 2013-11-26
+[togandporter]
+	company: Tog+Porter
+	num_female_eng: 1
+	num_eng: 1
 	last_updated: 2013-10-31
+[gamechanger]
+	company: GameChanger.io
+	num_female_eng: 1
+	num_eng: 12
+	last_updated: 2013-11-01
+[reverb]
+	company: Reverb
+	num_female_eng: 2
+	num_eng: 18
+	last_updated: 2013-11-07
+[tindie]
+	company: Tindie
+	num_female_eng: 1
+	num_eng: 5
+	last_updated: 2013-11-07
+[webkite]
+	company: Webkite
+	num_female_eng: 4
+	num_eng: 10
+	last_updated: 2013-11-08
+[meteor]
+	company: Meteor
+	num_female_eng: 3
+	num_eng: 9
+	last_updated: 2013-11-07
+[sunrun]
+	company: Sunrun
+	num_female_eng: 6
+	num_eng: 21
+	last_updated: 2013-11-07
+[checkout51]
+	company: Checkout 51
+	num_female_eng: 0
+	num_eng: 6
+	last_updated: 2013-11-08
+[launchbit]
+	company: LaunchBit
+	num_female_eng: 1
+	num_eng: 2
+	last_updated: 2013-11-04
+[hubspot]
+	company: HubSpot
+	num_female_eng: 4
+	num_eng: 65
+	last_updated: 2013-11-11
+[ivycorp]
+	company: Ivycorp
+	num_female_eng: 2
+	num_eng: 7
+	last_updated: 2013-11-11
+[creativelive]
+	company: creativeLIVE
+	num_female_eng: 0
+	num_eng: 10
+	last_updated: 2013-11-11
+[edmodo]
+	company: Edmodo
+	num_female_eng: 1
+	num_eng: 45
+	last_updated: 2013-11-12
+[mylikes]
+	company: MyLikes
+	num_female_eng: 2
+	num_eng: 12
+	last_updated: 2013-11-12
+[7digital]
+	company: 7digital
+	num_female_eng: 1
+	num_eng: 21
+	last_updated: 2013-11-13
+[foursquare]
+	company: foursquare
+	num_female_eng: 6
+	num_eng: 85
+	last_updated: 2013-11-13
+[elemental]
+	company: Elemental Technologies
+	num_female_eng: 6
+	num_eng: 55
+	last_updated: 2013-11-08
+[nextdoor]
+	company: Nextdoor
+	num_female_eng: 0
+	num_eng: 29
+	last_updated: 2013-11-20
+[doxo]
+	company: doxo
+	num_female_eng: 0
+	num_eng: 7
+	last_updated: 2013-11-20
+[practicefusion]
+	company: Practice Fusion
+	num_female_eng: 12
+	num_eng: 72
+	last_updated: 2013-12-02
+[inductiveautomation]
+	company: Inductive Automation
+	num_female_eng: 1
+	num_eng: 10
+	last_updated: 2013-11-26
+[capsher]
+	company: Capsher Technology
+	num_female_eng: 4
+	num_eng: 55
+	last_updated: 2013-11-27
+[paperlesspost]
+	company: Paperless Post
+	num_female_eng: 4
+	num_eng: 28
+	last_updated: 2013-12-03
+[appssavvy]
+	company: appssavvy
+	num_female_eng: 0
+	num_eng: 5
+	last_updated: 2013-11-27
+[kaon]
+	company: Kaon Interactive, Inc.
+	num_female_eng: 0
+	num_eng: 5
+	last_updated: 2013-12-02
+[manilla]
+	company: Manilla, LLC
+	num_female_eng: 10
+	num_eng: 32
+	last_updated: 2013-11-27
