@@ -597,3 +597,8 @@
 	num_female_eng: 2
 	num_eng: 15
 	last_updated: 2013-12-10
+[rolledalloys]
+	company: Rolled Alloys
+	num_female_eng: 1
+	num_eng: 5
+	last_updated: 2013-12-02
