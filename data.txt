@@ -281,8 +281,8 @@
 [sosh]
 	company: Sōsh
 	num_female_eng: 0
-	num_eng: 4
-	last_updated: 2013-11-01
+	num_eng: 5
+	last_updated: 2013-12-09
 [qstream]
 	company: Qstream
 	num_female_eng: 0
