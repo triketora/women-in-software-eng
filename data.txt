@@ -298,6 +298,12 @@
 	num_female_eng: 2
 	num_eng: 7
 	last_updated: 2013-10-24
+[yelp]
+	company: Yelp
+	team: Engineering
+	num_female_eng: 17
+	num_eng: 206
+	last_updated: 2014-01-13
 [squareroot]
 	company: square-root.com
 	num_female_eng: 2
