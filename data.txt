@@ -633,3 +633,8 @@
 	num_female_eng: 0
 	num_eng: 15
 	last_updated: 2013-12-12
+[redfin]
+	company: Redfin
+	num_female_eng: 9
+	num_eng: 41
+	last_updated: 2013-01-27
