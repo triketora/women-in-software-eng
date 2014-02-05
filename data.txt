@@ -543,6 +543,11 @@
 	num_female_eng: 2
 	num_eng: 12
 	last_updated: 2013-11-12
+[bendyworks]
+	company: Bendyworks
+	num_female_eng: 3
+ 	num_eng: 11
+ 	last_updated: 2014-01-24
 [7digital]
 	company: 7digital
 	num_female_eng: 1
