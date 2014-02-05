@@ -397,6 +397,11 @@
 	num_female_eng: 10
 	num_eng: 160
 	last_updated: 2013-10-26
+[freshbooks]
+	company: FreshBooks.com
+	num_female_eng: 5
+	num_eng: 25
+	last_updated: 2013-11-26
 [bitly]
 	company: Bitly
 	num_female_eng: 1
