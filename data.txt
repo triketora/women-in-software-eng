@@ -638,3 +638,8 @@
 	num_female_eng: 9
 	num_eng: 41
 	last_updated: 2013-01-27
+[lot18]
+	company: Lot18
+	num_female_eng: 1
+	num_eng: 5
+	last_updated: 2013-02-05
