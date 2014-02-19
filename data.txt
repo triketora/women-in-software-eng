@@ -322,9 +322,9 @@
 	last_updated: 2013-10-31
 [circa]
 	company: Circa
-	num_female_eng: 2
+	num_female_eng: 0
 	num_eng: 5
-	last_updated: 2013-11-12
+	last_updated: 2014-02-19
 [qualcommaustin]
 	company: Qualcomm
 	team: Austin, TX office
