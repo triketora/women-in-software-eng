@@ -653,6 +653,11 @@
 	num_female_eng: 0
 	num_eng: 15
 	last_updated: 2013-12-12
+[waveapps]
+	company: Wave Apps
+	num_female_eng: 5
+	num_eng: 23
+	last_updated: 2014-2-24
 [simplymeasured]
 	company: Simply Measured
 	num_female_eng: 2
