@@ -312,8 +312,8 @@
 [scilearn]
 	company: Scientific Learning
 	num_female_eng: 5
-	num_eng: 9
-	last_updated: 2013-12-02
+	num_eng: 10
+	last_updated: 2014-02-28
 [guidewirefostercity]
 	company: Guidewire Software
 	team: Foster City office
