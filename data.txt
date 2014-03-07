@@ -678,3 +678,8 @@
 	num_female_eng: 5
 	num_eng: 74
 	last_updated: 2014-02-25
+[shoplocal]
+	company: Shoplocal
+	num_female_eng: 5
+	num_eng: 31
+	last_updated: 2014-03-06
