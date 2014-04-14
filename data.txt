@@ -665,9 +665,9 @@
 	last_updated: 2014-02-24
 [simplymeasured]
 	company: Simply Measured
-	num_female_eng: 2
-	num_eng: 29
-	last_updated: 2014-02-04
+	num_female_eng: 6
+	num_eng: 35
+	last_updated: 2014-04-14
 [redfin]
 	company: Redfin
 	num_female_eng: 9
