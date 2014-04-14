@@ -412,6 +412,11 @@
 	num_female_eng: 1
 	num_eng: 21
 	last_updated: 2013-11-5
+[inkling]
+	company: Inkling
+	num_female_eng: 1
+	num_eng: 35
+	last_updated: 2014-4-14
 [flickr]
 	company: Yahoo
 	team: Flickr
