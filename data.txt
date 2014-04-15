@@ -305,7 +305,6 @@
 	last_updated: 2013-10-24
 [yelp]
 	company: Yelp
-	team: Engineering
 	num_female_eng: 17
 	num_eng: 206
 	last_updated: 2014-01-13
@@ -416,12 +415,12 @@
 	company: Bitly
 	num_female_eng: 1
 	num_eng: 21
-	last_updated: 2013-11-5
+	last_updated: 2013-11-05
 [inkling]
 	company: Inkling
 	num_female_eng: 1
 	num_eng: 35
-	last_updated: 2014-4-14
+	last_updated: 2014-04-14
 [flickr]
 	company: Yahoo
 	team: Flickr
