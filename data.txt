@@ -722,6 +722,11 @@
 	num_female_eng: 5
 	num_eng: 20
 	last_updated: 2014-04-14
+[popsugar]
+	company: POPSUGAR
+	num_female_eng: 8
+	num_eng: 46
+	last_updated: 2014-04-15
 [wizarddevelopment]
 	company: Wizard Development
 	num_female_eng: 2
