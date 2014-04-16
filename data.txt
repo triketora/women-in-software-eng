@@ -247,6 +247,11 @@
 	num_female_eng: 4
 	num_eng: 24
 	last_updated: 2013-10-24
+[cirrusmio]
+	company: CirrusMio
+	num_female_eng: 1
+	num_eng: 7
+	last_updated: 2014-04-15
 [stackmob]
 	company: StackMob
 	num_female_eng: 0
