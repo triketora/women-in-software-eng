@@ -6,7 +6,7 @@
 # 	num_eng: 100
 # 	last_updated: 2013-10-20
 #
-# The team field is optional (it will default to 'N/A' if the row is omitted). 
+# The team field is optional (it will default to 'N/A' if the row is omitted).
 # It is primarily meant to be used for larger organizations where a company-wide
 # headcount may be difficult to obtain, but more localized information may be
 # available.
@@ -491,7 +491,7 @@
 	company: NovoEd
 	num_female_eng: 1
 	num_eng: 5
-	last_updated: 2014-04-05	
+	last_updated: 2014-04-05
 [radius]
 	company: Radius.com
 	num_female_eng: 3
@@ -601,7 +601,7 @@
 	company: Tapad
 	num_female_eng: 1
  	num_eng: 17
- 	last_updated: 2014-01-31	
+ 	last_updated: 2014-01-31
 [doxo]
 	company: doxo
 	num_female_eng: 0
@@ -756,9 +756,14 @@
 	company: Addepar
 	num_female_eng: 1
 	num_eng: 29
-	last_updated: 2014-04-21	
+	last_updated: 2014-04-21
 [keenio]
 	company: Keen IO
 	num_female_eng: 1
 	num_eng: 9
 	last_updated: 2014-04-25
+[gilt]
+	company: Gilt
+	num_female_eng: 11
+	num_eng: 111
+	last_updated:2014-05-07
