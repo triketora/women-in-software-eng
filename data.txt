@@ -767,3 +767,8 @@
 	num_female_eng: 11
 	num_eng: 111
 	last_updated: 2014-05-07
+[narrativescience]
+	company: Narrative Science
+	num_female_eng: 1
+	num_eng: 16
+	last_updated: 2014-05-13
