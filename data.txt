@@ -445,8 +445,8 @@
 [kiva]
 	company: Kiva
 	num_female_eng: 3
-	num_eng: 24
-	last_updated: 2013-10-25
+	num_eng: 23
+	last_updated: 2014-05-14
 [kanjoya]
 	company: Kanjoya
 	num_female_eng: 4
