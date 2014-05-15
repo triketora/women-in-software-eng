@@ -777,3 +777,8 @@
 	num_female_eng: 77
 	num_eng: 306
 	last_updated: 2014-05-14
+[1uptalent]
+	company: 1up talent
+	num_female_eng: 0
+	num_eng: 2
+	last_updated: 2014-05-14
