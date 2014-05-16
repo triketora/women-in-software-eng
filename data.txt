@@ -56,6 +56,11 @@
 	num_female_eng: 3
 	num_eng: 16
 	last_updated: 2013-10-20
+[makeshift]
+	company: Makeshift, London
+	num_female_eng: 2
+	num_eng: 7
+	last_updated: 2014-05-16
 [hootsuite]
 	company: HootSuite
 	num_female_eng: 6
