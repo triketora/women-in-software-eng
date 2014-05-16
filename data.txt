@@ -792,3 +792,8 @@
 	num_female_eng: 4
 	num_eng: 19
 	last_updated: 2014-05-14
+[mapistry]
+	company: Mapistry
+	num_female_eng: 1
+	num_eng: 3
+	last_updated: 2014-05-16
