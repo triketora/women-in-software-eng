@@ -797,3 +797,8 @@
 	num_female_eng: 1
 	num_eng: 3
 	last_updated: 2014-05-16
+[codurance]
+	company: Codurance, London
+	num_female_eng: 0
+	num_eng: 3
+	last_updated: 2014-05-17
