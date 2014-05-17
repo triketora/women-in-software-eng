@@ -11,6 +11,11 @@
 # headcount may be difficult to obtain, but more localized information may be
 # available.
 
+[thelastpickle]
+	company: The Last Pickle
+	num_female_eng: 1
+	num_eng: 3
+	last_updated: 2014-05-16
 [pinterest]
 	company: Pinterest
 	num_female_eng: 19
