@@ -812,3 +812,8 @@
 	num_female_eng: 0
 	num_eng: 3
 	last_updated: 2014-05-17
+[circl]
+	company: circl, Brooklyn
+	num_female_eng: 0
+	num_eng: 3
+	last_updated: 2014-05-29
