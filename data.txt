@@ -797,6 +797,11 @@
 	num_female_eng: 337
 	num_eng: 1425
 	last_updated: 2014-05-19
+[newbamboo]
+	company: New Bamboo, London
+	num_female_eng: 1
+	num_eng: 14
+	last_updated: 2014-05-20
 [1uptalent]
 	company: 1up talent
 	num_female_eng: 0
