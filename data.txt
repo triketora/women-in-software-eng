@@ -842,3 +842,9 @@
 	num_female_eng: 0
 	num_eng: 14
 	last_updated: 2014-06-21
+[balderdash]
+	company: Balderdash
+	team: Sails.js
+	num_female_eng: 2
+	num_eng: 6
+	last_updated: 2014-06-13
