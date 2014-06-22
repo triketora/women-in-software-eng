@@ -837,3 +837,8 @@
 	num_female_eng: 5
 	num_eng: 12
 	last_updated: 2014-06-18
+[coinbase]
+	company: Coinbase
+	num_female_eng: 0
+	num_eng: 14
+	last_updated: 2014-06-21
