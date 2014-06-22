@@ -81,5 +81,3 @@ Please reach out to me on Twitter at <a
 href="https://twitter.com/triketora">@triketora</a> or email me at
 tracy at pinterest.com. Feedback on anything big or small is very
 welcome :)
-
-[![Build Status](https://travis-ci.org/triketora/women-in-software-eng.png?branch=master)](https://travis-ci.org/triketora/women-in-software-eng)
