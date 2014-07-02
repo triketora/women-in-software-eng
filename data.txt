@@ -3,13 +3,17 @@
 #	company: Company Name
 #	team: Team Name
 #	num_female_eng: 50
-# 	num_eng: 100
-# 	last_updated: 2013-10-20
+#	num_male_eng: 50
+#	num_eng: 100
+#	last_updated: 2013-10-20
 #
 # The team field is optional (it will default to 'N/A' if the row is omitted).
 # It is primarily meant to be used for larger organizations where a company-wide
 # headcount may be difficult to obtain, but more localized information may be
 # available.
+#
+# The number of female and male engineers do not have to add up to 100%.
+# Feel free to add additional gender fields if available.
 
 [thelastpickle]
 	company: The Last Pickle
