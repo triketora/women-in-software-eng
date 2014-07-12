@@ -771,11 +771,6 @@
 	num_female_eng: 7
 	num_eng: 29
 	last_updated: 2014-04-15
-[pitchinteractive]
-	company: Pitch Interactive
-	num_female_eng: 2
-	num_eng: 4
-	last_updated: 2014-04-16
 [floored]
 	company: Floored
 	num_female_eng: 6
