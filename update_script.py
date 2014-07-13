@@ -17,7 +17,7 @@ ss_client = None
 
 def init_ss_client(email, password):
     global ss_client
-    if ss_client is None:
+    if not ss_client:
         ss_client = ss_service.SpreadsheetsService()
         ss_client.email = email
         ss_client.password = password
