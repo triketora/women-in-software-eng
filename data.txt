@@ -153,8 +153,8 @@
 [findery]
 	company: Findery
 	num_female_eng: 2
-	num_eng: 7
-	last_updated: 2014-03-24
+	num_eng: 5
+	last_updated: 2014-07-16
 [hearsaysocial]
  	company: Hearsay Social
  	num_female_eng: 4
