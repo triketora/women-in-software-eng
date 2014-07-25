@@ -852,3 +852,9 @@
 	num_female_eng: 1
 	num_eng: 10
 	last_updated: 2014-06-27
+[nyt_np]
+	company: The New York Times
+	team: New Products
+	num_female_eng: 3
+	num_eng: 21
+	last_updated: 2014-07-25
