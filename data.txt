@@ -852,3 +852,8 @@
 	num_female_eng: 1
 	num_eng: 10
 	last_updated: 2014-06-27
+[walkerandcobrands]
+	company: Walker & Company Brands
+	num_female_eng: 2
+	num_eng: 4
+	last_updated: 2014-07-25
