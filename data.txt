@@ -863,3 +863,8 @@
 	num_female_eng: 3
 	num_eng: 21
 	last_updated: 2014-07-25
+[shopatron]
+	company: Shopatron
+	num_female_eng: 3
+	num_eng: 24
+	last_updated: 2014-07-28
