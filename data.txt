@@ -868,3 +868,8 @@
 	num_female_eng: 3
 	num_eng: 24
 	last_updated: 2014-07-28
+[codeschool]
+	company: Code School
+	num_female_eng: 4
+	num_eng: 18
+	last_updated: 2014-07-30
