@@ -803,9 +803,9 @@
 	last_updated: 2014-05-19
 [newbamboo]
 	company: New Bamboo, London
-	num_female_eng: 1
-	num_eng: 14
-	last_updated: 2014-05-20
+	num_female_eng: 2
+	num_eng: 16
+	last_updated: 2014-08-13
 [1uptalent]
 	company: 1up talent
 	num_female_eng: 0
