@@ -167,9 +167,9 @@
 	last_updated: 2013-10-23
 [hipmunk]
 	company: Hipmunk
-	num_female_eng: 0
-	num_eng: 15
-	last_updated: 2013-10-23
+	num_female_eng: 3
+	num_eng: 24
+	last_updated: 2014-08-12
 [goldbely]
 	company: Goldbely
 	num_female_eng: 0
