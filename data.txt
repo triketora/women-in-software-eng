@@ -883,3 +883,8 @@
 	num_female_eng: 3
 	num_eng: 11
 	last_updated: 2014-08-12
+[birst]
+	company: Birst
+	num_female_eng: 1
+	num_eng: 19
+	last_updated: 2014-09-14
