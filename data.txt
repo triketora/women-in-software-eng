@@ -893,3 +893,8 @@
 	num_female_eng: 0
 	num_eng: 3
 	last_updated: 2014-05-29
+[lot18]
+	company: Lot18
+	num_female_eng: 1
+	num_eng: 5
+	last_updated: 2013-02-05
