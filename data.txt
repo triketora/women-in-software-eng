@@ -629,8 +629,8 @@
 [tapad]
 	company: Tapad
 	num_female_eng: 1
- 	num_eng: 17
- 	last_updated: 2014-01-31
+ 	num_eng: 31
+ 	last_updated: 2014-08-04
 [doxo]
 	company: doxo
 	num_female_eng: 0
