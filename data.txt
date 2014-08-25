@@ -723,9 +723,9 @@
 	last_updated: 2014-02-13
 [wikimedia]
 	company: Wikimedia Foundation
-	num_female_eng: 5
-	num_eng: 74
-	last_updated: 2014-02-25
+	num_female_eng: 9
+	num_eng: 82
+	last_updated: 2014-08-21
 [shoplocal]
 	company: Shoplocal
 	num_female_eng: 5
