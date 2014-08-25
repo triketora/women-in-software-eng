@@ -303,9 +303,9 @@
 	last_updated: 2013-10-21
 [clever]
 	company: Clever
-	num_female_eng: 1
-	num_eng: 8
-	last_updated: 2013-12-14
+	num_female_eng: 2
+	num_eng: 14
+	last_updated: 2014-08-19
 [pearson]
 	company: Pearson College
 	team: APEX/Ferrari
