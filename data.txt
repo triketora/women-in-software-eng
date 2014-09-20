@@ -908,3 +908,8 @@
 	num_female_eng: 7
 	num_eng: 8
 	last_updated: 2014-09-05
+[mindjet]
+	company: Mindjet
+	num_female_eng: 8
+	num_eng: 22
+	last_updated: 2014-09-20
