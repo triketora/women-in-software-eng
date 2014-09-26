@@ -913,3 +913,8 @@
 	num_female_eng: 8
 	num_eng: 22
 	last_updated: 2014-09-20
+[outpace]
+	company: Outpace Systems
+	num_female_eng: 4
+	num_eng: 40
+	last_updated: 2014-09-26
