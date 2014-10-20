@@ -927,7 +927,7 @@
 	company: Guidebook
 	num_female_eng: 0
 	num_eng: 22
-	last_update: 2014-10-17
+	last_updated: 2014-10-17
 [tricae]
 	company: Tricae
 	num_female_eng: 1
