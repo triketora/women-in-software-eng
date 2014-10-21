@@ -546,6 +546,11 @@
 	num_female_eng: 2
 	num_eng: 18
 	last_updated: 2013-11-07
+[intentmedia]
+	company: Intent Media
+	num_female_eng: 8
+	num_eng: 39
+	last_updated: 2014-10-20
 [tindie]
 	company: Tindie
 	num_female_eng: 1
