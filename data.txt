@@ -10,6 +10,11 @@
 # It is primarily meant to be used for larger organizations where a company-wide
 # headcount may be difficult to obtain, but more localized information may be
 # available.
+[imgur]
+	company: Imgur
+	num_female_eng: 1
+	num_eng: 12
+	last_updated: 2014-10-30
 [noodle]
 	company: Noodle
 	num_female_eng: 4
