@@ -10,6 +10,11 @@
 # It is primarily meant to be used for larger organizations where a company-wide
 # headcount may be difficult to obtain, but more localized information may be
 # available.
+[polyvore]
+    company: Polyvore
+    num_female_eng: 13
+    num_eng: 50
+    last_updated: 2014-11-03
 [imgur]
 	company: Imgur
 	num_female_eng: 1
