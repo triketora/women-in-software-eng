@@ -963,3 +963,8 @@
 	num_female_eng: 4
 	num_eng: 31
 	last_updated: 2014-10-17
+[motleyfool]
+	company: The Motley Fool
+	num_female_eng: 10
+	num_eng: 64
+	last_updated: 2014-11-05
