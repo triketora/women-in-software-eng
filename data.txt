@@ -333,10 +333,10 @@
 	num_eng: 15
 	last_updated: 2013-10-23
 [sosh]
-	company: Sōsh
-	num_female_eng: 0
-	num_eng: 5
-	last_updated: 2013-12-09
+	company: Sosh
+	num_female_eng: 1
+	num_eng: 13
+	last_updated: 2014-11-09
 [qstream]
 	company: Qstream
 	num_female_eng: 0
