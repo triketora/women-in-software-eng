@@ -813,9 +813,9 @@
 	last_updated: 2014-05-07
 [narrativescience]
 	company: Narrative Science
-	num_female_eng: 1
-	num_eng: 16
-	last_updated: 2014-05-13
+	num_female_eng: 3
+	num_eng: 21
+	last_updated: 2014-11-17
 [thoughtworks]
 	company: ThoughtWorks
 	num_female_eng: 337
