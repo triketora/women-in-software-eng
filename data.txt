@@ -968,3 +968,8 @@
 	num_female_eng: 10
 	num_eng: 64
 	last_updated: 2014-11-05
+[lookout]
+	company: Lookout
+	num_female_eng: 8
+	num_eng: 96
+	last_updated: 2014-11-05
