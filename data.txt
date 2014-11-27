@@ -948,6 +948,11 @@
 	num_female_eng: 0
 	num_eng: 22
 	last_updated: 2014-10-17
+[patreon]
+	company: Patreon
+	num_female_eng: 1
+	num_eng: 7
+	last_updated: 2014-11-26
 [tricae]
 	company: Tricae
 	num_female_eng: 1
