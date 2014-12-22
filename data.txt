@@ -32,9 +32,9 @@
 	last_updated: 2014-05-16
 [pinterest]
 	company: Pinterest
-	num_female_eng: 25
-	num_eng: 150
-	last_updated: 2014-08-04
+	num_female_eng: 29
+	num_eng: 175
+	last_updated: 2014-12-16
 [dropbox]
 	company: Dropbox
 	num_female_eng: 26
