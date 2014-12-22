@@ -978,3 +978,8 @@
 	num_female_eng: 8
 	num_eng: 96
 	last_updated: 2014-11-05
+[wibidata]
+	company: WibiData
+	num_female_eng: 6
+	num_eng: 23
+	last_updated: 2014-12-04
