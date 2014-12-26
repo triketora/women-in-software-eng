@@ -12,12 +12,14 @@ Contributing Data
 
 For the purposes of this project, I am counting "female engineers" as
 women who are writing or architecting software, and are in full-time
-roles. This generally does not include people just writing HTML/CSS 
-(depending on the level of sophistication of the CSS being written), 
-designers, PMs, sysadmins, etc. although the line can be blurry for 
-people who are in mixed roles, like engineering managers who were 
-formerly ICs and still contribute code -- use your judgment. Only 
-full-timers please; no interns or contractors.
+roles. This generally does not include people just writing HTML/CSS
+(depending on the level of sophistication of the CSS being written),
+data scientists (depending on the split of work between doing analysis
+and building systems and reusable code), designers, PMs, sysadmins,
+etc. although the line can be blurry for people who are in mixed
+roles, like engineering managers who were formerly ICs and still
+contribute code -- use your judgment. Only full-timers please; no
+interns or contractors.
 
 To contribute numbers for a company or team, whether your own or
 another, you can either
