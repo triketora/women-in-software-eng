@@ -733,9 +733,9 @@
 	last_updated: 2014-04-14
 [redfin]
 	company: Redfin
-	num_female_eng: 10
-	num_eng: 44
-	last_updated: 2014-05-29
+	num_female_eng: 11
+	num_eng: 61
+	last_updated: 2015-01-05
 [codeforamerica]
 	company: Code for America
 	num_female_eng: 2
