@@ -983,3 +983,8 @@
 	num_female_eng: 6
 	num_eng: 23
 	last_updated: 2014-12-04
+[admittedly]
+	company: Admittedly
+	num_female_eng: 1
+	num_eng: 2
+	last_updated: 2015-01-05
