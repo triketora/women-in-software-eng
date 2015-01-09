@@ -10,6 +10,11 @@
 # It is primarily meant to be used for larger organizations where a company-wide
 # headcount may be difficult to obtain, but more localized information may be
 # available.
+[quip]
+        company: Quip
+        num_female_eng: 4
+        num_eng: 14
+        last_updated: 2015-01-07
 [polyvore]
     company: Polyvore
     num_female_eng: 13
