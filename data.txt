@@ -258,9 +258,9 @@
 	last_updated: 2013-10-23
 [airbnb]
 	company: Airbnb
-	num_female_eng: 10
-	num_eng: 76
-	last_updated: 2013-10-23
+	num_female_eng: 18
+	num_eng: 143
+	last_updated: 2015-01-20
 [adzerk]
 	company: Adzerk
 	num_female_eng: 1
