@@ -337,6 +337,11 @@
 	num_female_eng: 5
 	num_eng: 15
 	last_updated: 2013-10-23
+[tenup]
+	company: 10up
+	num_female_eng: 8
+	num_eng: 67
+	last_updated: 2015-01-29
 [sosh]
 	company: Sosh
 	num_female_eng: 2
