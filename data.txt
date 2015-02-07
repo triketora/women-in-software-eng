@@ -988,6 +988,11 @@
 	num_female_eng: 8
 	num_eng: 96
 	last_updated: 2014-11-05
+[blacklocus]
+	company: BlackLocus
+	num_female_eng: 4
+	num_eng: 11
+	last_updated: 2015-02-06
 [wibidata]
 	company: WibiData
 	num_female_eng: 6
