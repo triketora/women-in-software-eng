@@ -1013,3 +1013,8 @@
 	num_female_eng: 1
 	num_eng: 3
 	last_updated: 2015-01-30
+[wealthsimple]
+	company: Wealthsimple
+	num_female_eng: 1
+	num_eng: 3
+	last_updated: 2015-02-12
