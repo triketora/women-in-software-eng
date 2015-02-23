@@ -447,8 +447,8 @@
 [indiegogo]
 	company: Indiegogo
 	num_female_eng: 8
-	num_eng: 37
-	last_updated: 2015-02-22
+	num_eng: 30
+	last_updated: 2015-02-23
 [activision]
 	company: Activision
 	num_female_eng: 1
