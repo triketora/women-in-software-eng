@@ -57,9 +57,9 @@
 	last_updated: 2013-11-11
 [medium]
 	company: Medium
-	num_female_eng: 9
-	num_eng: 33
-	last_updated: 2015-01-06
+	num_female_eng: 10
+	num_eng: 36
+	last_updated: 2015-02-27
 [renttherunway]
 	company: Rent the Runway
 	num_female_eng: 7
