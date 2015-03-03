@@ -446,9 +446,9 @@
 	last_updated: 2013-10-24
 [indiegogo]
 	company: Indiegogo
-	num_female_eng: 7
-	num_eng: 22
-	last_updated: 2014-07-13
+	num_female_eng: 8
+	num_eng: 30
+	last_updated: 2015-02-23
 [activision]
 	company: Activision
 	num_female_eng: 1
