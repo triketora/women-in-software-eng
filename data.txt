@@ -117,9 +117,9 @@
         last_updated: 2014-04-15
 [relay]
 	company: Relay Graduate School
-	num_female_eng: 2
-	num_eng: 3
-	last_updated: 2014-05-29
+	num_female_eng: 1
+	num_eng: 6
+	last_updated: 2015-03-03
 [topix]
 	company: Topix
 	num_female_eng: 0
