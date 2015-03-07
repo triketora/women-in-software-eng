@@ -25,6 +25,11 @@
 	num_female_eng: 1
 	num_eng: 12
 	last_updated: 2014-10-30
+[dramafever]
+        company: DramaFever
+        num_female_eng: 6
+        num_eng: 34
+        last_updated: 2015-03-07
 [noodle]
 	company: Noodle
 	num_female_eng: 4
