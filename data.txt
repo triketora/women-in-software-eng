@@ -1034,7 +1034,7 @@
 	num_eng: 48
 	last_updated: 2015-03-07
 [attn]
-	company: ATTN:
+	company: ATTN
 	num_female_eng: 1
 	num_eng: 3
 	last_updated: 2015-03-14
