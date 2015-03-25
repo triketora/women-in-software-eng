@@ -9,8 +9,8 @@ https://docs.google.com/spreadsheet/ccc?key=0AlZH8QBl60oodEJTdFA5TlZOcDJCMU02RkZ
 
 Contributing Data
 -----------------
-Please read the [contributing guidelines](CONTRIBUTING.md).  Thank you for
-helping us improve our data!
+Please read the [contributing guidelines](CONTRIBUTING.md). Thank you for
+helping to improve the data!
 
 How does the spreadsheet get updated?
 -------------------------------------
