@@ -57,9 +57,9 @@
 	last_updated: 2013-11-13
 [stackexchange]
 	company: Stack Exchange
-	num_female_eng: 0
-	num_eng: 23
-	last_updated: 2013-11-11
+	num_female_eng: 3
+	num_eng: 40
+	last_updated: 2015-04-07
 [medium]
 	company: Medium
 	num_female_eng: 10
