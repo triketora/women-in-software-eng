@@ -1016,8 +1016,8 @@
 [cohealo]
 	company: Cohealo
 	num_female_eng: 1
-	num_eng: 3
-	last_updated: 2015-01-30
+	num_eng: 6
+	last_updated: 2015-04-10
 [wealthsimple]
 	company: Wealthsimple
 	num_female_eng: 1
