@@ -223,9 +223,9 @@
 	last_updated: 2013-10-23
 [stripe]
 	company: Stripe
-	num_female_eng: 3
-	num_eng: 28
-	last_updated: 2013-10-24
+	num_female_eng: 9
+	num_eng: 81
+	last_updated: 2015-04-22
 [disqus]
 	company: Disqus
 	num_female_eng: 2
