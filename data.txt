@@ -538,9 +538,9 @@
 	last_updated: 2013-10-28
 [changeorg]
 	company: Change.org, Inc.
-	num_female_eng: 3
-	num_eng: 24
-	last_updated: 2013-10-31
+	num_female_eng: 9
+	num_eng: 44
+	last_updated: 2015-04-22
 [causes]
 	company: Causes.com
 	num_female_eng: 2
