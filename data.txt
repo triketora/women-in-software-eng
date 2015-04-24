@@ -107,9 +107,9 @@
 	last_updated: 2013-10-22
 [codecademy]
 	company: Codecademy
-	num_female_eng: 0
+	num_female_eng: 1
 	num_eng: 9
-	last_updated: 2013-10-22
+	last_updated: 2014-04-23
 [watsi]
 	company: Watsi
 	num_female_eng: 0
