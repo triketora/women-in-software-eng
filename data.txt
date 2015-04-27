@@ -1049,3 +1049,9 @@
 	num_female_eng: 10
 	num_eng: 48
 	last_updated: 2015-04-23
+[pdxeps]
+	company: PDX, Inc.
+	team: Enterprise Pharmacy System
+	num_female_eng: 13
+	num_eng: 63
+	last_updated: 2015-04-24
