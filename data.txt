@@ -470,7 +470,7 @@
 	company: GitHub
 	num_female_eng: 14
 	num_eng: 104
-	last_updated: 2014-5-5
+	last_updated: 2014-05-05
 [freshbooks]
 	company: FreshBooks.com
 	num_female_eng: 5
