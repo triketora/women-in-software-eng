@@ -614,9 +614,9 @@
 	last_updated: 2013-11-04
 [hubspot]
 	company: HubSpot
-	num_female_eng: 4
-	num_eng: 65
-	last_updated: 2013-11-11
+	num_female_eng: 10
+	num_eng: 105
+	last_updated: 2015-05-07
 [ivycorp]
 	company: Ivycorp
 	num_female_eng: 2
