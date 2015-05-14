@@ -752,6 +752,11 @@
 	num_female_eng: 11
 	num_eng: 61
 	last_updated: 2015-01-05
+[energysavvy]
+	company: EnergySavvy
+	num_female_eng: 7
+	num_eng: 35
+	last_updated: 2015-05-08
 [codeforamerica]
 	company: Code for America
 	num_female_eng: 2
