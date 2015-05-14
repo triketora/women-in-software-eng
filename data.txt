@@ -1065,3 +1065,8 @@
 	num_female_eng: 8
 	num_eng: 53
 	last_updated: 2015-04-29
+[massdrop]
+	company: Massdrop
+	num_female_eng: 0
+	num_eng: 8
+	last_updated: 2015-05-06
