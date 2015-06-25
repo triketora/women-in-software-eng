@@ -1001,9 +1001,9 @@
 	last_updated: 2014-11-05
 [lookout]
 	company: Lookout
-	num_female_eng: 8
-	num_eng: 96
-	last_updated: 2014-11-05
+	num_female_eng: 9
+	num_eng: 112
+	last_updated: 2015-06-25
 [blacklocus]
 	company: BlackLocus
 	num_female_eng: 4
