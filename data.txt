@@ -1098,8 +1098,8 @@
 	last_updated: 2015-06-01
 [slack]
 	company: Slack
-	num_female_eng: 71
-	num_eng: 13
+	num_female_eng: 13
+	num_eng: 71
 	last_updated: 2015-06-16
 [eventbrite]
 	company: Eventbrite
