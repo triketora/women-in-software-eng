@@ -1096,3 +1096,8 @@
 	num_female_eng: 4
 	num_eng: 23
 	last_updated: 2015-06-01
+[slack]
+	company: Slack
+	num_female_eng: 71
+	num_eng: 13
+	last_updated: 2015-06-16
