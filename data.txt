@@ -344,7 +344,7 @@
 	last_updated: 2015-05-03
 [npm]
 	company: npm
-	num_female: 6
+	num_female_eng: 6
 	num_eng: 13
 	last_updated: 2015-07-15
 [pearson]
