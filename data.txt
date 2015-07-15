@@ -10,6 +10,12 @@
 # It is primarily meant to be used for larger organizations where a company-wide
 # headcount may be difficult to obtain, but more localized information may be
 # available.
+
+[glassbreakers]
+        company: Glassbreakers
+        num_female_eng: 2
+        num_eng: 3
+        last_updated: 2015-07-09
 [quip]
         company: Quip
         num_female_eng: 4
