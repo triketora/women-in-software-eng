@@ -1101,3 +1101,8 @@
 	num_female_eng: 71
 	num_eng: 13
 	last_updated: 2015-06-16
+[eventbrite]
+	company: Eventbrite
+	num_female_eng: 14
+	num_eng: 74
+	last_updated: 2015-06-21
