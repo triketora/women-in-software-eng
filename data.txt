@@ -1106,3 +1106,8 @@
 	num_female_eng: 14
 	num_eng: 74
 	last_updated: 2015-06-21
+[ayasdi]
+	company: AYASDI
+	num_female_eng: 16
+	num_eng: 49
+	last_updated: 2015-06-05
