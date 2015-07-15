@@ -1116,3 +1116,9 @@
 	num_female_eng: 3
 	num_eng: 13
 	last_updated: 2015-06-17
+[braintree]
+	company: eBay
+	team: Braintree
+	num_female_eng: 5
+	num_eng: 135
+	last_updated: 2015-07-15
