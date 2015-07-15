@@ -8,19 +8,33 @@ import argparse
 import datetime
 import re
 
+from gdata import gauth
 from gdata.spreadsheet import service as ss_service
+from oauth2client.client import flow_from_clientsecrets
+from oauth2client.file import Storage
+from oauth2client.tools import run
 
+CLIENT_SECRETS_FILENAME = 'client_secrets.json'
 SS_KEY = '0AlZH8QBl60oodEJTdFA5TlZOcDJCMU02RkZoSHF5SHc'
 WORKSHEET_ID = 'od6'
 
 ss_client = None
 
-def init_ss_client(email, password):
+def init_ss_client(client_secrets_filename):
     global ss_client
     if not ss_client:
-        ss_client = ss_service.SpreadsheetsService()
-        ss_client.email = email
-        ss_client.password = password
+        storage = Storage('creds.dat')
+        credentials = storage.get()
+        if credentials is None or credentials.invalid:
+              credentials = run(
+                  flow_from_clientsecrets(
+                      client_secrets_filename,
+                      scope=['https://spreadsheets.google.com/feeds']),
+                      storage)
+
+        ss_client = ss_service.SpreadsheetsService(
+            additional_headers={'Authorization': 'Bearer %s' % credentials.access_token})
+        ss_client.auth_token = gauth.OAuth2TokenFromCredentials(credentials)
         ss_client.source = 'Update Script'
         ss_client.ProgrammaticLogin()
 
@@ -175,16 +189,14 @@ def update_ss_from_file(ss_key, worksheet_id, data_filename):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser('Update spreadsheet.')
-    parser.add_argument('-e', '--email')
-    parser.add_argument('-p', '--password')
-    parser.add_argument('-d', '--data-file')
+    parser.add_argument('-c', '--client-secrets-filename')
+    parser.add_argument('-d', '--data-filename')
     parser.add_argument('-s', '--spreadsheet-key')
 
     args = parser.parse_args()
-    email = args.email
-    password = args.password 
-    data_filename = args.data_file
+    client_secrets_filename = args.client_secrets_filename or CLIENT_SECRETS_FILENAME
+    data_filename = args.data_filename
     ss_key = args.spreadsheet_key or SS_KEY
 
-    init_ss_client(email, password)
+    init_ss_client(client_secrets_filename)
     update_ss_from_file(ss_key, WORKSHEET_ID, data_filename)
