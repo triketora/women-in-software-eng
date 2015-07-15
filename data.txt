@@ -342,6 +342,11 @@
 	num_female_eng: 4
 	num_eng: 25
 	last_updated: 2015-05-03
+[npm]
+	company: npm
+	num_female: 6
+	num_eng: 13
+	last_updated: 2015-07-15
 [pearson]
 	company: Pearson College
 	team: APEX/Ferrari
