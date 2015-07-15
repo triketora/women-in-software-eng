@@ -102,7 +102,7 @@
 	num_eng: 41
 	last_updated: 2013-10-22
 [charitywater]
-	company: charity: water
+	company: charity water
 	num_female_eng: 1
 	num_eng: 8
 	last_updated: 2015-05-13
