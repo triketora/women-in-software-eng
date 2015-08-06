@@ -297,6 +297,11 @@
 	num_female_eng: 4
 	num_eng: 20
 	last_updated: 2013-10-24
+[billupsww]
+	company: Billups
+	num_female_eng: 3
+	num_eng: 11
+	last_updated: 2015-08-06
 [themuse]
 	company: The Muse
 	num_female_eng: 3
