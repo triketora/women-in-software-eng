@@ -1147,3 +1147,8 @@
 	num_female_eng: 0
 	num_eng: 6
 	last_updated: 2015-07-23
+[brandwatch]
+	company: Brandwatch
+	num_female_eng: 6
+	num_eng: 69
+	last_updated: 2015-08-07
