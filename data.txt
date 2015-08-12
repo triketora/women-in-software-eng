@@ -1152,3 +1152,8 @@
 	num_female_eng: 0
 	num_eng: 6
 	last_updated: 2015-07-23
+[hipaariskmanagement]
+	company: HIPAA Risk Management
+	num_female_eng: 2
+	num_eng: 2
+	last_updated: 2015-07-27
