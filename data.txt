@@ -1157,3 +1157,8 @@
 	num_female_eng: 2
 	num_eng: 2
 	last_updated: 2015-07-27
+[nearsoft]
+	company: Nearsoft, Inc.
+	num_female_eng: 3
+	num_eng: 107
+	last_updated: 2015-08-10
