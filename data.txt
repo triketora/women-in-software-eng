@@ -1129,9 +1129,9 @@
 [braintree]
 	company: PayPal
 	team: Braintree
-	num_female_eng: 7
-	num_eng: 150
-	last_updated: 2015-07-16
+	num_female_eng: 11
+	num_eng: 163
+	last_updated: 2015-08-21
 [cityaoflaita]
 	company: City of Los Angeles Information Technology Agency
 	num_female_eng: 33
