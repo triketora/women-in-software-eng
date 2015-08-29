@@ -1172,3 +1172,8 @@
 	num_female_eng: 11
 	num_eng: 29
 	last_updated: 2015-08-13
+[chain]
+	company: Chain.com
+	num_female_eng: 1
+	num_eng: 4
+	last_updated: 2015-08-28
