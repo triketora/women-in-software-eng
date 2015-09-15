@@ -11,6 +11,12 @@
 # headcount may be difficult to obtain, but more localized information may be
 # available.
 
+[apartmentlist]
+	company: Apartment List
+	num_female_eng: 1
+	num_eng: 15
+	last_updated: 2015-09-14
+
 [glassbreakers]
         company: Glassbreakers
         num_female_eng: 2
