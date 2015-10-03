@@ -1183,3 +1183,8 @@
 	num_female_eng: 31
 	num_eng: 217
 	last_updated: 2015-09-02
+[chain]
+	company: Chain.com
+	num_female_eng: 1
+	num_eng: 4
+	last_updated: 2015-08-28
