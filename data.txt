@@ -1116,6 +1116,11 @@
 	num_female_eng: 13
 	num_eng: 71
 	last_updated: 2015-06-16
+[slate]
+	company: The Slate Group
+	num_female_eng: 4
+	num_eng: 12
+	last_updated: 2015-10-13
 [eventbrite]
 	company: Eventbrite
 	num_female_eng: 14
