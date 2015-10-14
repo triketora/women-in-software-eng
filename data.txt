@@ -905,9 +905,9 @@
 	last_updated: 2014-06-18
 [coinbase]
 	company: Coinbase
-	num_female_eng: 0
-	num_eng: 14
-	last_updated: 2014-06-21
+	num_female_eng: 1
+	num_eng: 24
+	last_updated: 2015-10-14
 [balderdash]
 	company: Balderdash
 	team: Sails.js
