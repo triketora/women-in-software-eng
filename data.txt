@@ -1118,6 +1118,7 @@
 	last_updated: 2015-06-16
 [slate]
 	company: The Slate Group
+	team: Slate/Panoply Engineering
 	num_female_eng: 4
 	num_eng: 12
 	last_updated: 2015-10-13
