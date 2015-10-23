@@ -755,9 +755,9 @@
 	last_updated: 2014-01-15
 [refinery29]
 	company: Refinery29
-	num_female_eng: 4
-	num_eng: 15
-	last_updated: 2014-02-05
+	num_female_eng: 9
+	num_eng: 31
+	last_updated: 2015-10-23
 [harvest]
 	company: Harvest
 	num_female_eng: 0
