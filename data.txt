@@ -247,6 +247,11 @@
 	num_female_eng: 3
 	num_eng: 23
 	last_updated: 2015-09-23
+[birchbox]
+	company: Birchbox
+	num_female_eng: 8
+	num_eng: 36
+	last_updated: 2015-11-07
 [wealthfront]
 	company: Wealthfront
 	num_female_eng: 4
