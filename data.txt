@@ -509,9 +509,9 @@
 	last_updated: 2013-11-26
 [bitly]
 	company: Bitly
-	num_female_eng: 1
-	num_eng: 21
-	last_updated: 2013-11-05
+	num_female_eng: 4
+	num_eng: 20
+	last_updated: 2015-11-11
 [inkling]
 	company: Inkling
 	num_female_eng: 2
