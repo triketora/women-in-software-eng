@@ -21,6 +21,11 @@
   num_female_eng: 2
   num_eng: 3
   last_updated: 2015-07-09
+[vsco]
+  company: VSCO
+  num_female_eng: 7
+  num_eng: 40
+  last_updated: 2015-11-17
 [quip]
   company: Quip
   num_female_eng: 4
