@@ -36,6 +36,11 @@
 	num_female_eng: 13
 	num_eng: 50
 	last_updated: 2014-11-03
+[udacity]
+	company: Udacity
+	num_female_eng: 3
+	num_eng: 23
+	last_updated: 2015-11-26
 [imgur]
 	company: Imgur
 	num_female_eng: 1
