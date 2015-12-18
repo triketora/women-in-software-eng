@@ -1241,3 +1241,8 @@
 	num_female_eng: 2
 	num_eng: 40
 	last_updated: 2015-12-03
+[socrata]
+	company: Socrata
+	num_female_eng: 12
+	num_eng: 46
+	last_updated: 2015-12-18
