@@ -1246,3 +1246,8 @@
 	num_female_eng: 12
 	num_eng: 46
 	last_updated: 2015-12-18
+[automattic]
+	company: Automattic
+	num_female_eng: 13
+ 	num_eng: 161
+ 	last_updated: 2015-12-21
