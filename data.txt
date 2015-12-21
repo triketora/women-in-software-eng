@@ -304,9 +304,9 @@
 	last_updated: 2013-10-23
 [hypothesis]
 	company: Hypothes.is
-	num_female_eng: 0
-	num_eng: 3
-	last_updated: 2013-10-23
+	num_female_eng: 2
+	num_eng: 7
+	last_updated: 2015-12-21
 [newrelic]
 	company: New Relic
 	num_female_eng: 30
