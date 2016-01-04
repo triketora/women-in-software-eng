@@ -1251,3 +1251,8 @@
 	num_female_eng: 13
  	num_eng: 161
  	last_updated: 2015-12-21
+[fundbox]
+	company: Fundbox
+	num_female_eng: 5
+ 	num_eng: 26
+ 	last_updated: 2016-01-03
