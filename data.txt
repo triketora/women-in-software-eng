@@ -1214,8 +1214,8 @@
 	company: Liferay
 	team: Global Services
 	num_female_eng: 2
-	num_eng: 21
-	last_updated: 2015-12-02
+	num_eng: 20
+	last_updated: 2016-01-15
 [chain]
 	company: Chain.com
 	num_female_eng: 1
