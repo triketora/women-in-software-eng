@@ -680,9 +680,9 @@
 	last_updated: 2013-11-12
 [bendyworks]
 	company: Bendyworks
-	num_female_eng: 4
-	num_eng: 11
-	last_updated: 2014-03-31
+	num_female_eng: 0
+	num_eng: 6
+	last_updated: 2016-01-27
 [7digital]
 	company: 7digital
 	num_female_eng: 1
