@@ -168,9 +168,9 @@
 	last_updated: 2014-09-03
 [vungle]
 	company: Vungle
-	num_female_eng: 5
-	num_eng: 40
-	last_updated: 2015-09-04
+	num_female_eng: 3
+	num_eng: 50
+	last_updated: 2016-02-17
 [flipboard]
 	company: Flipboard
 	num_female_eng: 6
