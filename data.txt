@@ -1269,5 +1269,5 @@
 [spoonflower]
 	company: Spoonflower
 	num_female_eng: 10
-	num_end: 16
+	num_eng: 16
 	last_updated: 2016-02-22
