@@ -1241,6 +1241,11 @@
 	num_female_eng: 3
 	num_eng: 57
 	last_updated: 2015-10-28
+[google]
+	company: Google (taken from google.com/diversity)
+	num_female_eng: 18
+	num_eng: 82
+	last_updated: 2015-01
 [ellation]
 	company: Ellation (fka Crunchyroll)
 	num_female_eng: 2
