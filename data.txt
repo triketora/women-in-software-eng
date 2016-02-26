@@ -486,6 +486,11 @@
 	num_female_eng: 14
 	num_eng: 76
 	last_updated: 2013-10-24
+[spoonflower]
+	company: Spoonflower
+	num_female_eng: 10
+	num_eng: 16
+	last_updated: 2016-02-25
 [sifteo]
 	company: Sifteo
 	num_female_eng: 0
