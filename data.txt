@@ -795,9 +795,9 @@
 	last_updated: 2014-04-14
 [redfin]
 	company: Redfin
-	num_female_eng: 11
-	num_eng: 61
-	last_updated: 2015-01-05
+	num_female_eng: 23
+	num_eng: 68
+	last_updated: 2016-02-02
 [energysavvy]
 	company: EnergySavvy
 	num_female_eng: 7
