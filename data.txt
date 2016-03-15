@@ -1200,10 +1200,10 @@
 	num_eng: 107
 	last_updated: 2015-08-10
 [intercom]
-  company: Intercom
-  num_female_eng: 3
-  num_eng: 50
-  last_updated: 2015-08-13
+	company: Intercom
+	num_female_eng: 4
+	num_eng: 67
+	last_updated: 2016-03-15
 [enstoainc]
 	company: Enstoa, Inc.
 	num_female_eng: 11
