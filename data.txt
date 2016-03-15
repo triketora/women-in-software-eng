@@ -796,7 +796,7 @@
 [redfin]
 	company: Redfin
 	num_female_eng: 23
-	num_eng: 68
+	num_eng: 91
 	last_updated: 2016-02-02
 [energysavvy]
 	company: EnergySavvy
