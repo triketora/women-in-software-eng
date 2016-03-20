@@ -1229,8 +1229,8 @@
 [getable]
 	company: Getable
 	num_female_eng: 2
-	num_eng: 7
-	last_updated: 2015-10-13
+	num_eng: 3
+	last_updated: 2016-5-19
 [lanetix]
 	company: Lanetix
 	num_female_eng: 4
