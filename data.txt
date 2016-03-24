@@ -11,6 +11,11 @@
 # headcount may be difficult to obtain, but more localized information may be
 # available.
 
+[noredink]
+	company: NoRedInk
+	num_female_eng: 2
+	num_eng: 12
+	last_updated: 2016-03-24
 [apartmentlist]
 	company: Apartment List
 	num_female_eng: 1
