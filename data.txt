@@ -476,6 +476,11 @@
   num_female_eng: 8
   num_eng: 45
   last_updated: 2013-10-24
+[socialtables]
+	company: Social Tables
+	num_female_eng: 4
+	num_eng: 21
+	last_updated: 2016-04-20
 [shopkick]
 	company: shopkick
 	num_female_eng: 2
