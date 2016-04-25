@@ -1151,13 +1151,13 @@
 	team: Slate.com Engineering
 	num_female_eng: 3
 	num_eng: 9
-	last_updated: 2015-12-04
+	last_updated: 2016-04-25
 [panoply]
 	company: The Slate Group
 	team: Panoply Engineering
 	num_female_eng: 1
-	num_eng: 4
-	last_updated: 2015-12-04
+	num_eng: 6
+	last_updated: 2016-04-25
 [eventbrite]
 	company: Eventbrite
 	num_female_eng: 14
