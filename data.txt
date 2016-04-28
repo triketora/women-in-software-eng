@@ -86,6 +86,11 @@
 	num_female_eng: 3
 	num_eng: 40
 	last_updated: 2015-04-07
+[brigade]
+	company: Brigade
+	num_female_eng: 3
+	num_eng: 28
+	last_updated: 2016-04-28
 [medium]
 	company: Medium
 	num_female_eng: 10
