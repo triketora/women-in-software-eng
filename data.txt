@@ -603,11 +603,6 @@
 	num_female_eng: 15
 	num_eng: 52
 	last_updated: 2015-10-04
-[causes]
-	company: Causes.com
-	num_female_eng: 2
-	num_eng: 25
-	last_updated: 2013-11-07
 [gonovoed]
 	company: NovoEd
 	num_female_eng: 1
