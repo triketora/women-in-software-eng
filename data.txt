@@ -33,9 +33,9 @@
   last_updated: 2015-11-17
 [quip]
   company: Quip
-  num_female_eng: 4
-  num_eng: 14
-  last_updated: 2015-01-07
+  num_female_eng: 5
+  num_eng: 13
+  last_updated: 2016-05-24
 [polyvore]
 	company: Polyvore
 	num_female_eng: 13
