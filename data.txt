@@ -93,9 +93,9 @@
 	last_updated: 2016-04-28
 [medium]
 	company: Medium
-	num_female_eng: 12
-	num_eng: 46
-	last_updated: 2016-05-31
+	num_female_eng: 14
+	num_eng: 48
+	last_updated: 2016-07-11
 [renttherunway]
 	company: Rent the Runway
 	num_female_eng: 7
