@@ -977,9 +977,9 @@
 	last_updated: 2014-07-30
 [centerforopenscience]
 	company: Center for Open Science
-	num_female_eng: 3
-	num_eng: 11
-	last_updated: 2014-08-12
+	num_female_eng: 5
+	num_eng: 23
+	last_updated: 2016-07-22
 [birst]
 	company: Birst
 	num_female_eng: 1
