@@ -12,7 +12,7 @@ from gdata import gauth
 from gdata.spreadsheet import service as ss_service
 from oauth2client.client import flow_from_clientsecrets
 from oauth2client.file import Storage
-from oauth2client.tools import run
+from oauth2client import tools
 
 CLIENT_SECRETS_FILENAME = 'client_secrets.json'
 SS_KEY = '0AlZH8QBl60oodEJTdFA5TlZOcDJCMU02RkZoSHF5SHc'
@@ -26,7 +26,7 @@ def init_ss_client(client_secrets_filename):
         storage = Storage('creds.dat')
         credentials = storage.get()
         if credentials is None or credentials.invalid:
-              credentials = run(
+              credentials = tools.run_flow(
                   flow_from_clientsecrets(
                       client_secrets_filename,
                       scope=['https://spreadsheets.google.com/feeds']),
