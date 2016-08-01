@@ -15,7 +15,7 @@ helping to improve the data!
 How does the spreadsheet get updated?
 -------------------------------------
 
-Right now, I manually run `update_script.py` to pull the numbers out 
+Right now, I manually run `update_script.py` to pull the numbers out
 of `data.txt` and submit them to the Google spreadsheet.
 
 Something like this:
@@ -34,11 +34,11 @@ script with your own spreadsheet key `SS_KEY` specified:
 Where `SS_KEY` is the key found in a Google Docs spreadsheet URL:
 
     https://docs.google.com/spreadsheet/ccc?key=$SS_KEY
-    
+
 
 Questions / Comments / Concerns?
 --------------------------------
 Please reach out to me on Twitter at <a
-href="https://twitter.com/triketora">@triketora</a> or email me at
-tracy at pinterest.com. Feedback on anything big or small is very
-welcome :)
+href="https://twitter.com/triketora">@triketora</a> or contact me via my <a
+href="https://triketora.com/contact/">website</a>. Feedback on anything big or
+small is very welcome :)
