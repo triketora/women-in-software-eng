@@ -1291,3 +1291,8 @@
         num_female_eng: 3
         num_eng: 52
         last_updated: 2016-04-01
+[shift]
+	company: Shift
+	num_female_eng: 0
+	num_eng: 27
+	last_updated: 2016-08-21
