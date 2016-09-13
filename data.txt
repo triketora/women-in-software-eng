@@ -1253,9 +1253,9 @@
 	last_updated: 2015-10-28
 [ellation]
 	company: Ellation (fka Crunchyroll)
-	num_female_eng: 2
-	num_eng: 40
-	last_updated: 2015-12-03
+	num_female_eng: 5
+	num_eng: 57
+	last_updated: 2016-09-12
 [socrata]
 	company: Socrata
 	num_female_eng: 12
