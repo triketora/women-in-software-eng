@@ -16,7 +16,6 @@
 	num_female_eng: 17
 	num_eng: 84
 	last_updated: 2016-10-03
-
 [noredink]
 	company: NoRedInk
 	num_female_eng: 2
