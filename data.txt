@@ -1150,8 +1150,8 @@
 	company: The Slate Group
 	team: Slate.com Engineering
 	num_female_eng: 4
-	num_eng: 10
-	last_updated: 2016-04-25
+	num_eng: 9
+	last_updated: 2016-10-31
 [panoply]
 	company: The Slate Group
 	team: Panoply Engineering
