@@ -16,6 +16,11 @@
 	num_female_eng: 17
 	num_eng: 84
 	last_updated: 2016-10-03
+[betterment]
+	company: Betterment
+	num_female_eng: 11
+	num_eng: 68
+	last_updated: 2016-11-02
 [noredink]
 	company: NoRedInk
 	num_female_eng: 2
