@@ -20,17 +20,18 @@ WORKSHEET_ID = 'od6'
 
 ss_client = None
 
-def init_ss_client(client_secrets_filename):
+def init_ss_client(client_secrets_filename, flags):
     global ss_client
     if not ss_client:
         storage = Storage('creds.dat')
         credentials = storage.get()
         if credentials is None or credentials.invalid:
-              credentials = tools.run_flow(
-                  flow_from_clientsecrets(
-                      client_secrets_filename,
-                      scope=['https://spreadsheets.google.com/feeds']),
-                      storage)
+            credentials = tools.run_flow(
+                flow_from_clientsecrets(
+                    client_secrets_filename,
+                    scope=['https://spreadsheets.google.com/feeds']),
+                storage,
+                flags)
 
         ss_client = ss_service.SpreadsheetsService(
             additional_headers={'Authorization': 'Bearer %s' % credentials.access_token})
@@ -188,15 +189,15 @@ def update_ss_from_file(ss_key, worksheet_id, data_filename):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser('Update spreadsheet.')
+    parser = argparse.ArgumentParser('Update spreadsheet.', parents=[tools.argparser])
     parser.add_argument('-c', '--client-secrets-filename')
     parser.add_argument('-d', '--data-filename')
     parser.add_argument('-s', '--spreadsheet-key')
 
-    args = parser.parse_args()
-    client_secrets_filename = args.client_secrets_filename or CLIENT_SECRETS_FILENAME
-    data_filename = args.data_filename
-    ss_key = args.spreadsheet_key or SS_KEY
+    flags = parser.parse_args()
+    client_secrets_filename = flags.client_secrets_filename or CLIENT_SECRETS_FILENAME
+    data_filename = flags.data_filename
+    ss_key = flags.spreadsheet_key or SS_KEY
 
-    init_ss_client(client_secrets_filename)
+    init_ss_client(client_secrets_filename, flags)
     update_ss_from_file(ss_key, WORKSHEET_ID, data_filename)
