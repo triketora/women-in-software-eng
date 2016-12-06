@@ -1,6 +1,12 @@
 This is the data collection follow-up to "Where are the numbers?"
 https://medium.com/grace-hopper-2013/cb997a57252
 
+About the Data
+--------------
+This data is focused on the number of women in software engineering, defined by women that are focused on writing and building software and tools. 
+It discounts front-end designers, sysadmins, support/sales engineers, QA and other technical positions. 
+
+
 Viewing Data
 ------------
 The easiest way to view the collected data is this Google spreadsheet:
