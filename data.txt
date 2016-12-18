@@ -108,9 +108,9 @@
 	last_updated: 2016-07-11
 [renttherunway]
 	company: Rent the Runway
-	num_female_eng: 7
-	num_eng: 32
-	last_updated: 2013-10-13
+	num_female_eng: 15
+	num_eng: 54
+	last_updated: 2016-12-18
 [reddit]
 	company: Reddit
 	num_female_eng: 2
