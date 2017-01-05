@@ -1316,3 +1316,8 @@
 	num_female_eng: 0
 	num_eng: 27
 	last_updated: 2016-08-21
+[cloverhealth]
+	company: Clover Health
+	num_female_eng: 18
+	num_eng: 50
+	last_updated: 2017-01-05
