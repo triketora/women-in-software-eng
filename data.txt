@@ -91,11 +91,11 @@
 	num_female_eng: 1
 	num_eng: 4
 	last_updated: 2013-11-13
-[stackexchange]
-	company: Stack Exchange
-	num_female_eng: 3
-	num_eng: 40
-	last_updated: 2015-04-07
+[stackoverflow]
+	company: Stack Overflow
+	num_female_eng: 4
+	num_eng: 51
+	last_updated: 2017-01-18
 [brigade]
 	company: Brigade
 	num_female_eng: 3
