@@ -1246,6 +1246,11 @@
 	num_female_eng: 2
 	num_eng: 20
 	last_updated: 2016-01-15
+[stratasan]
+	company: Stratasan
+	num_female_eng: 1
+	num_eng: 7
+	last_updated: 2017-01-30
 [chain]
 	company: Chain.com
 	num_female_eng: 1
@@ -1321,3 +1326,4 @@
 	num_female_eng: 18
 	num_eng: 50
 	last_updated: 2017-01-05
+
