@@ -1148,9 +1148,9 @@
 	last_updated: 2015-05-14
 [geckoboard]
 	company: Geckoboard
-	num_female_eng: 2
-	num_eng: 8
-	last_updated: 2015-05-05
+	num_female_eng: 3
+	num_eng: 16
+	last_updated: 2017-02-09
 [incognito]
 	company: Incognito Software
 	num_female_eng: 4
