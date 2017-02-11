@@ -818,6 +818,11 @@
 	num_female_eng: 6
 	num_eng: 35
 	last_updated: 2014-04-14
+[sproutsocial]
+	company: Sprout Social
+	num_female_eng: 9
+	num_eng: 48
+	last_updated: 2017-02-10
 [redfin]
 	company: Redfin
 	num_female_eng: 23
