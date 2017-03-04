@@ -13,9 +13,9 @@ To contribute numbers for a company or team, whether your own or
 another, you can either
 
 1. Send the information to me via Twitter at <a
-href="https://twitter.com/triketora">@triketora</a> or email me at
-tracy at pinterest dot com. I am happy to anonymize contributions if
-they are sensitive.
+href="https://twitter.com/triketora">@triketora</a> or message me via 
+the contact form on my <a href="https://triketora.com/contact/">website</a>. 
+I am happy to anonymize contributions if they are sensitive.
 
 2. Submit a pull request amending data.txt (click this link to easily
 submit a pull request:
