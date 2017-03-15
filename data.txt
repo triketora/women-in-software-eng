@@ -118,8 +118,8 @@
   last_updated: 2016-12-18
 [reddit]
   company: Reddit
-  num_female_eng: 2
-  num_eng: 14
+  num_female_eng: 3
+  num_eng: 66
   last_updated: 2013-10-12
 [wanelo]
   company: Wanelo
