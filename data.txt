@@ -1347,3 +1347,8 @@
   num_female_eng: 0
   num_eng: 21
   last_updated: 2017-03-16
+[haagstreit]
+  company: Haag-Streit
+  num_female_eng: 2
+  num_eng: 12
+  last_updated: 2017-03-16
