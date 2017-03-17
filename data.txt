@@ -1341,3 +1341,9 @@
   num_female_eng: 1
   num_eng: 7
   last_updated: 2017-03-15
+[annaxswitzerland]
+  company: Annax
+  team: Switzerland
+  num_female_eng: 0
+  num_eng: 21
+  last_updated: 2017-03-16
