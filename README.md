@@ -42,3 +42,6 @@ Please reach out to me on Twitter at <a
 href="https://twitter.com/triketora">@triketora</a> or contact me via my <a
 href="https://triketora.com/contact/">website</a>. Feedback on anything big or
 small is very welcome :)
+
+Visualised data
+![alt tag](https://raw.githubusercontent.com/broccolinisoup/women-in-software-eng/master/current_graph.png)
