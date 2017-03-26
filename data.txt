@@ -322,6 +322,11 @@
   num_female_eng: 0
   num_eng: 6
   last_updated: 2013-10-23
+[helix]
+  company: Helix
+  num_female_eng: 9
+  num_eng: 31
+  last_updated: 2017-03-22
 [airbnb]
   company: Airbnb
   num_female_eng: 38
