@@ -1357,3 +1357,8 @@
   num_female_eng: 2
   num_eng: 12
   last_updated: 2017-03-16
+[fivestars]
+  company: FiveStars
+  num_female_eng: 4
+  num_eng: 30
+  last_updated: 2017-04-04
