@@ -3,7 +3,8 @@ https://medium.com/grace-hopper-2013/cb997a57252
 
 Viewing Data
 ------------
-The easiest way to view the collected data is this Google spreadsheet:
+The easiest way to view the collected data is at: https://the-numbers.herokuapp.com
+Or enjoy some advanced features in the Google spreadsheet:
 https://docs.google.com/spreadsheet/ccc?key=0AlZH8QBl60oodEJTdFA5TlZOcDJCMU02RkZoSHF5SHc#gid=0
 
 
