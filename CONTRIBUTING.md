@@ -6,7 +6,7 @@ data scientists (depending on the split of work between doing analysis
 and building systems and reusable code), designers, PMs, sysadmins,
 etc. although the line can be blurry for people who are in mixed
 roles, like engineering managers who were formerly ICs and still
-contribute code -- use your judgment. Only full-time employees please; 
+contribute code -- use your judgment. Only employees please;
 no interns or contractors.
 
 To contribute numbers for a company or team, whether your own or
