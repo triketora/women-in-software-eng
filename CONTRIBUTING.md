@@ -1,3 +1,9 @@
+Thanks for your interest in contributing data! Here's the information
+I am collecting for each entry in this repository:
+- number of female engineers
+- number of total engineers
+- data collection date
+
 For the purposes of this project, I am counting "female engineers" as
 women who are writing or architecting software, and are in full-time
 roles. This generally does not include people just writing HTML/CSS
