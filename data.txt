@@ -258,9 +258,9 @@
   last_updated: 2013-10-24
 [levo]
   company: Levo
-  num_female_eng: 1
-  num_eng: 3
-  last_updated: 2016-08-25
+  num_female_eng: 2
+  num_eng: 5
+  last_updated: 2017-06-10
 [parse]
   company: Facebook
   team: Parse
