@@ -1057,9 +1057,9 @@
   last_updated: 2014-10-17
 [patreon]
   company: Patreon
-  num_female_eng: 1
-  num_eng: 7
-  last_updated: 2014-11-26
+  num_female_eng: 8
+  num_eng: 32
+  last_updated: 2017-07-10
 [tricae]
   company: Tricae
   num_female_eng: 1
