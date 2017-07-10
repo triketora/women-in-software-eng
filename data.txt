@@ -1372,3 +1372,8 @@
   num_female_eng: 30
   num_eng: 75
   last_updated: 2017-06-07
+[checkr]
+  company: Checkr
+  num_female_eng: 6
+  num_eng: 24
+  last_updated: 2017-07-10
