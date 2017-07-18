@@ -399,9 +399,9 @@
   last_updated: 2013-10-21
 [clever]
   company: Clever
-  num_female_eng: 4
-  num_eng: 25
-  last_updated: 2015-05-03
+  num_female_eng: 9
+  num_eng: 36
+  last_updated: 2017-07-18
 [npm]
   company: npm
   num_female_eng: 6
