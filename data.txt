@@ -1241,9 +1241,9 @@
   last_updated: 2015-08-10
 [intercom]
   company: Intercom
-  num_female_eng: 4
-  num_eng: 67
-  last_updated: 2016-03-15
+  num_female_eng: 16
+  num_eng: 112
+  last_updated: 2017-07-31
 [enstoainc]
   company: Enstoa, Inc.
   num_female_eng: 11
