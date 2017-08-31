@@ -1382,3 +1382,8 @@
   num_female_eng: 4
   num_eng: 24
   last_updated: 2017-08-07
+[crowdskout]
+  company: Crowdskout
+  num_female_eng: 4
+  num_eng: 11
+  last_updated: 2017-08-28
