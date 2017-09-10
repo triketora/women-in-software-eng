@@ -1363,10 +1363,10 @@
   num_eng: 30
   last_updated: 2017-04-04
 [truckhall]
-  company: TruckHall
-  num_female_eng: 3
-  num_eng: 5
-  last_updated: 2017-04-05
+  company: TruckHall/SuperProcure
+  num_female_eng: 4
+  num_eng: 9
+  last_updated: 2017-09-06
 [zymergen]
   company: Zymergen
   num_female_eng: 30
