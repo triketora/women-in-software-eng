@@ -1387,3 +1387,8 @@
   num_female_eng: 4
   num_eng: 11
   last_updated: 2017-08-28
+[powerhub]
+  company: PowerHub
+  num_female_eng: 7
+  num_eng: 15
+  last_updated: 2017-08-31
