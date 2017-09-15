@@ -1392,3 +1392,8 @@
   num_female_eng: 7
   num_eng: 15
   last_updated: 2017-08-31
+[brightcove]
+  company: Brightcove
+  num_female_eng: 7
+  num_eng: 116
+  last_updated: 2017-09-15
