@@ -1379,9 +1379,9 @@
   last_updated: 2017-07-10
 [greensync]
   company: GreenSync
-  num_female_eng: 4
-  num_eng: 24
-  last_updated: 2017-08-07
+  num_female_eng: 5
+  num_eng: 26
+  last_updated: 2017-10-04
 [crowdskout]
   company: Crowdskout
   num_female_eng: 4
