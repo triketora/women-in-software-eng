@@ -1397,3 +1397,9 @@
   num_female_eng: 7
   num_eng: 116
   last_updated: 2017-09-15
+[ravelry]
+  company: Ravelry
+  num_female_eng: 1
+  num_eng: 2
+  last_updated: 2017-10-20
+  
