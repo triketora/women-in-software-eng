@@ -1283,9 +1283,9 @@
   last_updated: 2016-3-19
 [lanetix]
   company: Lanetix
-  num_female_eng: 4
-  num_eng: 22
-  last_updated: 2015-11-04
+  num_female_eng: 7
+  num_eng: 23
+  last_updated: 2017-10-23
 [salesforceiq]
   company: SalesforceIQ
   num_female_eng: 3
