@@ -10,6 +10,7 @@ import re
 
 from gdata import gauth
 from gdata.spreadsheet import service as ss_service
+from gdata.service import RequestError
 from oauth2client.client import flow_from_clientsecrets
 from oauth2client.file import Storage
 from oauth2client import tools
@@ -70,7 +71,7 @@ def _extract_col_key_value_from_data_line(line):
             col_value = col_value.strip()
 
     return col_key, col_value
-       
+
 
 required_col_keys = ('company', 'num_female_eng', 'num_eng')
 
@@ -79,7 +80,7 @@ def _clean_row_data(row_data):
     for required_col_key in required_col_keys:
         if required_col_key not in row_data.keys():
             return None
-    
+
     try:
         num_female_eng = int(row_data['num_female_eng'])
         row_data['num_female_eng'] = num_female_eng
@@ -93,12 +94,12 @@ def _clean_row_data(row_data):
 
     col_keys = row_data.keys()
     if 'team' not in col_keys:
-        row_data['team'] = 'N/A'    
+        row_data['team'] = 'N/A'
     if 'last_updated' not in col_keys:
-        row_data['last_updated'] = 'Not provided'   
+        row_data['last_updated'] = 'Not provided'
 
     return row_data
-        
+
 def parse_ss_rows_data_from_file(filename):
     rows_data = {}
     row_key = None
@@ -185,7 +186,15 @@ def update_ss_from_file(ss_key, worksheet_id, data_filename):
     for row_data in rows_data:
         row_data = dict((key.replace('_', ''), str(value))
                         for key, value in row_data.items())
-        entry = ss_client.InsertRow(row_data, ss_key, worksheet_id)
+        inserted = False
+        while not inserted:
+            try:
+                ss_client.InsertRow(row_data, ss_key, worksheet_id)
+                inserted = True
+            except RequestError as e:
+                print "Request error: {0}".format(e)
+            except:
+                raise
 
 
 if __name__ == '__main__':
