@@ -16,7 +16,6 @@
   num_female_eng: 20
   num_eng: 118
   last_updated: 2017-10-30
-
 [classpass]
   company: ClassPass
   num_female_eng: 4
