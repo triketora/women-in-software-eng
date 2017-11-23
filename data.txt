@@ -1412,3 +1412,8 @@
   num_female_eng: 1
   num_eng: 2
   last_updated: 2017-10-20
+[thrivehive]
+  company: Thrivehive
+  num_female_eng: 2
+  num_eng: 9
+  last_updated: 2017-11-21
