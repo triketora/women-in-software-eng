@@ -365,8 +365,8 @@
 [themuse]
   company: The Muse
   num_female_eng: 3
-  num_eng: 4
-  last_updated: 2013-10-24
+  num_eng: 14
+  last_updated: 2017-2-07
 [orbistechnologies]
   company: Orbis Technologies
   num_female_eng: 4
