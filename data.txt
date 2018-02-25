@@ -1417,3 +1417,8 @@
   num_female_eng: 2
   num_eng: 9
   last_updated: 2017-11-21
+[mode]
+  company: Mode
+  num_female_eng: 7
+  num_eng: 18
+  last_updated: 2018-01-24
