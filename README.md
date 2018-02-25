@@ -20,18 +20,14 @@ of `data.txt` and submit them to the Google spreadsheet.
 
 Something like this:
 
-    python2 update_script.py -d data.txt
-
-You can pass it in to your own spreadsheet by creating your own
-project in the [Google Developers
-Console](https://console.developers.google.com/), generating a client
-ID for a web application with redirect URI http://localhost:8080/,
-saving those credentials into `client_secrets.json`, and running the
-script with your own spreadsheet key `SS_KEY` specified:
-
     python2 update_script.py -d data.txt -s $SS_KEY
 
-Where `SS_KEY` is the key found in a Google Docs spreadsheet URL:
+You can pass it in to your own spreadsheet by creating your own project in the
+[Google Developers Console](https://console.developers.google.com/), generating
+a client ID for a web application with redirect URI http://localhost:8080/,
+saving those credentials into `client_secrets.json`, and running the script with
+your own spreadsheet key `SS_KEY` specified, where `SS_KEY` is the key found in
+a Google Docs spreadsheet URL:
 
     https://docs.google.com/spreadsheet/ccc?key=$SS_KEY
 

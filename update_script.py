@@ -206,7 +206,7 @@ if __name__ == '__main__':
     flags = parser.parse_args()
     client_secrets_filename = flags.client_secrets_filename or CLIENT_SECRETS_FILENAME
     data_filename = flags.data_filename
-    ss_key = flags.spreadsheet_key or SS_KEY
+    ss_key = flags.spreadsheet_key
 
     init_ss_client(client_secrets_filename, flags)
     update_ss_from_file(ss_key, WORKSHEET_ID, data_filename)
