@@ -1221,9 +1221,9 @@
   last_updated: 2015-08-21
 [cityaoflaita]
   company: City of Los Angeles Information Technology Agency
-  num_female_eng: 47
-  num_eng: 121
-  last_updated: 2017-09-14
+  num_female_eng: 39
+  num_eng: 142
+  last_updated: 2018-06-14
 [blendlabs]
   company: Blend Labs
   num_female_eng: 5
