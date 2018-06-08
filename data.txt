@@ -1430,8 +1430,8 @@
 [envoy]
   company: Envoy
   num_female_eng: 1
-  num_eng: 17
-  last_updated: 2018-03-16
+  num_eng: 24
+  last_updated: 2018-06-08
 [harbor]
   company: Harbor
   num_female_eng: 1
