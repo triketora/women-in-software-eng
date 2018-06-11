@@ -1223,7 +1223,7 @@
   company: City of Los Angeles Information Technology Agency
   num_female_eng: 26
   num_eng: 80
-  last_updated: 2018-06-14
+  last_updated: 2018-06-08
 [blendlabs]
   company: Blend Labs
   num_female_eng: 5
