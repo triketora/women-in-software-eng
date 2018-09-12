@@ -1442,3 +1442,8 @@
   num_female_eng: 1
   num_eng: 4
   last_updated: 2018-03-26
+[heidrick]
+  company: Heidrick & Struggles
+  num_female_eng: 1
+  num_eng: 5
+  last_updated: 2018-09-12
