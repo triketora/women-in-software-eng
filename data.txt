@@ -1343,9 +1343,9 @@
   last_updated: 2016-04-01
 [lever]
   company: Lever
-  num_female_eng: 6
-  num_eng: 17
-  last_updated: 2017-07-07
+  num_female_eng: 8
+  num_eng: 19
+  last_updated: 2018-09-11
 [shift]
   company: Shift
   num_female_eng: 0
