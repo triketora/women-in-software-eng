@@ -1434,9 +1434,9 @@
   last_updated: 2018-02-26
 [envoy]
   company: Envoy
-  num_female_eng: 3
-  num_eng: 30
-  last_updated: 2018-09-12
+  num_female_eng: 5
+  num_eng: 35
+  last_updated: 2018-11-12
 [harbor]
   company: Harbor
   num_female_eng: 1
