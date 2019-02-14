@@ -171,6 +171,11 @@
   num_female_eng: 1
   num_eng: 9
   last_updated: 2014-04-23
+[bandg]
+  company: Bear & Giraffe
+  num_female_eng: 1
+  num_eng: 2
+  last_updated: 2019-02-14
 [watsi]
   company: Watsi
   num_female_eng: 0
