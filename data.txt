@@ -130,7 +130,7 @@
   company: Service Express
   num_female_eng: 3
   num_eng: 12
-  last_updated: 2019-04-18  
+  last_updated: 2019-04-18
 [wanelo]
   company: Wanelo
   num_female_eng: 3
@@ -1318,9 +1318,9 @@
   last_updated: 2015-12-18
 [automattic]
   company: Automattic
-  num_female_eng: 29
-  num_eng: 306
-  last_updated: 2019-02-11
+  num_female_eng: 34
+  num_eng: 313
+  last_updated: 2019-05-03
 [fundbox]
   company: Fundbox
   num_female_eng: 5
