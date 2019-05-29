@@ -1288,9 +1288,9 @@
   last_updated: 2018-07-17
 [stratasan]
   company: Stratasan
-  num_female_eng: 1
+  num_female_eng: 3
   num_eng: 7
-  last_updated: 2017-01-30
+  last_updated: 2019-05-29
 [chain]
   company: Chain.com
   num_female_eng: 1
