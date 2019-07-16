@@ -201,6 +201,11 @@
   num_female_eng: 0
   num_eng: 9
   last_updated: 2013-10-22
+[anf]
+  company: Abercrombie & Fitch
+  num_female_eng: 214
+  num_eng: 74
+  last_updated: 2019-07-16
 [coursera]
   company: Coursera
   num_female_eng: 2
