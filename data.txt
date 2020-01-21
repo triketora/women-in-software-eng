@@ -18,9 +18,9 @@
   last_updated: 2017-10-30
 [classpass]
   company: ClassPass
-  num_female_eng: 14
-  num_eng: 76
-  last_updated: 2019-07-08
+  num_female_eng: 17
+  num_eng: 80
+  last_updated: 2020-01-21
 [tinder]
   company: Tinder
   num_female_eng: 17
