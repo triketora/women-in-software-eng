@@ -1323,9 +1323,9 @@
   last_updated: 2015-12-18
 [automattic]
   company: Automattic
-  num_female_eng: 34
-  num_eng: 313
-  last_updated: 2019-05-03
+  num_female_eng: 71
+  num_eng: 535
+  last_updated: 2020-07-30
 [fundbox]
   company: Fundbox
   num_female_eng: 5
